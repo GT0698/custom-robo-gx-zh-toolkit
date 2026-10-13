@@ -207,9 +207,12 @@ def build_overlay():
     venue_sign_graphics=apply_venue_signs(rom,en)
     from map_graphic_assets import apply_map_graphic
     map_graphics=apply_map_graphic(rom,en)
+    from title_branding_assets import apply_title_branding
+    title_branding=apply_title_branding(rom,en)
     path=ROOT/'work/roms/custom-robo-gx-zh-native-overlay.gba';path.write_bytes(rom)
     report=dict(shop_name_copy_sites=['0x0850941D','0x08509517'],native_ledger_sha256=hashlib.sha256(NATIVE_CATALOG_RAW).hexdigest(),ram_display_aliases=ram_entries,length_translation_callers=['0x0800C243','0x080096AB'],target=digest(rom),base=digest(base),labels=details,lookup_entries=len(mapping),engine_bytes=len(code),alternate_font_glyphs=236+len(ids)*2,hooks={hex(k):v[0] for k,v in HOOKS.items()},symbols=syms,original_string_bytes_unchanged=True,overlay_bank_pointers_unchanged=True,text_only_bank_pointers=[dict(string_id=r['string_id'],pointer_slot=r['pointer_slot'],target=r['target']) for r in details if r['string_id'] in BANK_IDS],scope='Display-only ROM pointers and explicitly audited padded RAM aliases. Generic string length remains untranslated outside two UI width callers. Other RAM compositions/rendering paths still need review')
     report.update(npc_name_display_entries=npc_names,npc_name_display_scope=dict(buffer="0x0200C1C4",script_pc="0x084FDB79",flag_index=4,allowed_flag_values=[0,1],story_flag_value=0,story_source_variable=9,story_source_pointer_address="0x0200CC24",story_requires_exact_candidate_source=True,exclude_equal_player_name=True,field_half_cells=9),league_graphics=league_graphics,venue_title_graphics=venue_title_graphics,model_label_graphics=model_label_graphics,battle_pause_graphics=battle_pause_graphics,equipment_panel_graphics=equipment_panel_graphics,main_menu_graphics=main_menu_graphics,graphics=graphics,offbank_labels=offbank_details,offbank_ledger_sha256=hashlib.sha256(OFFBANK_CATALOG_RAW).hexdigest())
+    report['title_branding']=title_branding
     report['map_graphics']=map_graphics
     report['whole_glyph_wrap']=dict(hook='0x0800CD2C',font_tables=['0x08880000','0x08884000'],first_half_glyphs=[1719,236],preflight_half_cells=2)
     report['commander_name_field_tiles']=7

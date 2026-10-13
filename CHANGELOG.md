@@ -1,3 +1,7 @@
+# v1.0 title branding — 2026-10-14
+
+Added bottom-right personal Chinese-localization credit and bottom-left version to the title BG. Original copyright, START animation/input, scripts and font tables unchanged. Offline resource checks only; waiting for player feedback.
+
 # Development changelog
 
 ## Source preparation snapshot

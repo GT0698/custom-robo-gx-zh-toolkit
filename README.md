@@ -104,7 +104,7 @@ python3 scripts/build.py \
   --verify-reference
 ```
 
-Successful reference output has SHA-1 `4816ac49f58e5e3648e018b976de3ed50451b30c`. The isolated source export has reproduced this ROM byte-for-byte. `--verify-reference` checks the bundled, unchanged Chinese build; omit it after changing translations, fonts or code.
+Successful reference output has SHA-1 `3815c71e19ee66bc071475ff725d65fa17f339c4`. The isolated source export has reproduced this ROM byte-for-byte. `--verify-reference` checks the bundled, unchanged Chinese build; omit it after changing translations, fonts or code.
 
 Default outputs:
 
@@ -213,3 +213,5 @@ CI checks source/export safeguards and pure BPS/input-decoder tests, without ROM
 ROMs, saves, emulator states, user screenshots, chat/session history, personal paths, credentials and local AI configurations are excluded from this export. Generated original text and build reports stay private.
 
 **Project-authored tooling and technical documentation are MIT-licensed**, with third-party and game-derived material excluded from that grant. Fonts remain OFL-1.1 with their original notices. Localization data is experimental and is not a blanket MIT/CC license for the underlying game or English project. This is a noncommercial knowledge-sharing project; that purpose does not restrict the MIT-covered tooling or grant permission to redistribute ROMs. Read [license scope](LICENSE_STATUS.md) and [credits](CREDITS.md).
+
+Current experimental display version: **v1.0**. Title background: bottom-right “云之君个人汉化”, bottom-left “v1.0”. Development is on hold pending player feedback; full single-player acceptance remains incomplete. These labels are hardcoded in `src/stage5/title_branding_assets.py` and should be adapted by other language projects.

@@ -18,5 +18,11 @@
   "full_single_player_acceptance": false,
   "tooling_license": "MIT for project-authored contributions",
   "all_components_rights_cleared": false,
-  "report_scope": "Preparation evidence before initial publication; publication receipt stored separately."
+  "report_scope": "Preparation evidence before initial publication; publication receipt stored separately.",
+  "title_branding_v1_0": {
+    "reference_sha1": "3815c71e19ee66bc071475ff725d65fa17f339c4",
+    "portable_rebuild_byte_identical": true,
+    "offline_scope_checks_passed": true,
+    "gameplay_or_game_screenshots": false
+  }
 }
