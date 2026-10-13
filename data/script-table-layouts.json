@@ -1,0 +1,542 @@
+{
+  "data_4fc83b": {
+    "address": 5228603,
+    "rows": 4,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "data_4fe861": {
+    "address": 5236833,
+    "rows": 24,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "data_4fed91": {
+    "address": 5238161,
+    "rows": 30,
+    "columns": 36,
+    "entry_bytes": 3
+  },
+  "data_4ffa42": {
+    "address": 5241410,
+    "rows": 30,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "Mollcup00MemberData": {
+    "address": 5241539,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Marinecup00MemberData": {
+    "address": 5241596,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Freshleague00MemberData": {
+    "address": 5241653,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Makanocup00MemberData": {
+    "address": 5241710,
+    "rows": 7,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "MasterC00MemberData": {
+    "address": 5241831,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Noisecup00MemberData": {
+    "address": 5241888,
+    "rows": 7,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Robokichicup00MemberData": {
+    "address": 5242009,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Enjojicup00MemberData": {
+    "address": 5242066,
+    "rows": 7,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Takumacup00MemberData": {
+    "address": 5242187,
+    "rows": 15,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "MasterB00MemberData": {
+    "address": 5242436,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Towercup00MemberData": {
+    "address": 5242493,
+    "rows": 7,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Masterscup00MemberData": {
+    "address": 5242614,
+    "rows": 8,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Superleague00MemberData": {
+    "address": 5242751,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Championcup00MemberData": {
+    "address": 5242808,
+    "rows": 15,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "MasterA00MemberData": {
+    "address": 5243057,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Greatcup00MemberData": {
+    "address": 5243114,
+    "rows": 15,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "YamiMizu00MemberData": {
+    "address": 5243363,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "YamiTsuchi00MemberData": {
+    "address": 5243420,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "YamiKaze00MemberData": {
+    "address": 5243477,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "YamiHi00MemberData": {
+    "address": 5243534,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Masterscup01MemberData": {
+    "address": 5243591,
+    "rows": 8,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Mollcup01MemberData": {
+    "address": 5243728,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Freshleague01MemberData": {
+    "address": 5243785,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Makanocup01MemberData": {
+    "address": 5243842,
+    "rows": 7,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "MasterC01MemberData": {
+    "address": 5243963,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Superleague01MemberData": {
+    "address": 5244020,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Championcup01MemberData": {
+    "address": 5244077,
+    "rows": 15,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "MasterA01MemberData": {
+    "address": 5244326,
+    "rows": 3,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Challenge00MemberData": {
+    "address": 5244383,
+    "rows": 5,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Starry00MemberData": {
+    "address": 5244472,
+    "rows": 5,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Bomber00MemberData": {
+    "address": 5244561,
+    "rows": 5,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Queen00MemberData": {
+    "address": 5244650,
+    "rows": 5,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Wild00MemberData": {
+    "address": 5244739,
+    "rows": 5,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Emperor00MemberData": {
+    "address": 5244828,
+    "rows": 5,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Korokoro00MemberData": {
+    "address": 5244917,
+    "rows": 5,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Bloody00MemberData": {
+    "address": 5245006,
+    "rows": 5,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Demons00MemberData": {
+    "address": 5245095,
+    "rows": 5,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "Nightmare00MemberData": {
+    "address": 5245184,
+    "rows": 5,
+    "columns": 8,
+    "entry_bytes": 2
+  },
+  "data_504e4c": {
+    "address": 5262924,
+    "rows": 30,
+    "columns": 18,
+    "entry_bytes": 2
+  },
+  "data_5052f9": {
+    "address": 5264121,
+    "rows": 74,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "data_50542a": {
+    "address": 5264426,
+    "rows": 50,
+    "columns": 6,
+    "entry_bytes": 2
+  },
+  "data_506ea9": {
+    "address": 5271209,
+    "rows": 24,
+    "columns": 3,
+    "entry_bytes": 2
+  },
+  "data_506f42": {
+    "address": 5271362,
+    "rows": 194,
+    "columns": 8,
+    "entry_bytes": 3
+  },
+  "data_50817b": {
+    "address": 5276027,
+    "rows": 17,
+    "columns": 8,
+    "entry_bytes": 3
+  },
+  "data_50831c": {
+    "address": 5276444,
+    "rows": 180,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "ShopData01": {
+    "address": 5281908,
+    "rows": 7,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "ShopData02": {
+    "address": 5281973,
+    "rows": 15,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "ShopData03": {
+    "address": 5282102,
+    "rows": 24,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "ShopData04": {
+    "address": 5282303,
+    "rows": 30,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "ShopData05": {
+    "address": 5282552,
+    "rows": 30,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "data_50d5e5": {
+    "address": 5297637,
+    "rows": 53,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "data_50dde8": {
+    "address": 5299688,
+    "rows": 37,
+    "columns": 9,
+    "entry_bytes": 2
+  },
+  "data_50e1b8": {
+    "address": 5300664,
+    "rows": 25,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "data_50f514": {
+    "address": 5305620,
+    "rows": 1,
+    "columns": 5,
+    "entry_bytes": 2
+  },
+  "data_50f527": {
+    "address": 5305639,
+    "rows": 1,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "data_50f538": {
+    "address": 5305656,
+    "rows": 1,
+    "columns": 5,
+    "entry_bytes": 2
+  },
+  "data_50f54b": {
+    "address": 5305675,
+    "rows": 1,
+    "columns": 3,
+    "entry_bytes": 2
+  },
+  "LadyPThemeBattleData": {
+    "address": 5315207,
+    "rows": 28,
+    "columns": 16,
+    "entry_bytes": 2
+  },
+  "KadaiShouhinData0110": {
+    "address": 5316541,
+    "rows": 6,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "KadaiShouhinData0120": {
+    "address": 5316598,
+    "rows": 6,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "KadaiShouhinData0210": {
+    "address": 5316655,
+    "rows": 8,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "KadaiShouhinData0220": {
+    "address": 5316728,
+    "rows": 8,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "KadaiShouhinData0310": {
+    "address": 5316801,
+    "rows": 5,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "KadaiShouhinData0410": {
+    "address": 5316850,
+    "rows": 4,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "KadaiShouhinData0510": {
+    "address": 5316891,
+    "rows": 3,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "data_513151": {
+    "address": 5321041,
+    "rows": 30,
+    "columns": 4,
+    "entry_bytes": 2
+  },
+  "data_51a883": {
+    "address": 5351555,
+    "rows": 2,
+    "columns": 20,
+    "entry_bytes": 3
+  },
+  "data_51bea6": {
+    "address": 5357222,
+    "rows": 6,
+    "columns": 5,
+    "entry_bytes": 2
+  },
+  "DoubleDataA01": {
+    "address": 5357291,
+    "rows": 20,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataD01": {
+    "address": 5357380,
+    "rows": 20,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataB01": {
+    "address": 5357469,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataB02": {
+    "address": 5357526,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataB03": {
+    "address": 5357583,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataB04": {
+    "address": 5357640,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataC01": {
+    "address": 5357697,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataC02": {
+    "address": 5357754,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataC03": {
+    "address": 5357811,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataC04": {
+    "address": 5357868,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataE01": {
+    "address": 5357925,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataE02": {
+    "address": 5357982,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataE03": {
+    "address": 5358039,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataE04": {
+    "address": 5358096,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataF01": {
+    "address": 5358153,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataF02": {
+    "address": 5358210,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataF03": {
+    "address": 5358267,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  },
+  "DoubleDataF04": {
+    "address": 5358324,
+    "rows": 12,
+    "columns": 2,
+    "entry_bytes": 2
+  }
+}

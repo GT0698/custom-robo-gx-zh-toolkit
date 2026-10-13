@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "rom-30a804",
+    "source_offset": 3188740,
+    "jp_offset": 3188740,
+    "reference_slots": [
+      4069796,
+      4069836,
+      4069856
+    ]
+  },
+  {
+    "id": "rom-30a764",
+    "source_offset": 3188580,
+    "jp_offset": 3188580,
+    "reference_slots": [
+      4069816
+    ]
+  },
+  {
+    "id": "rom-30a670",
+    "source_offset": 3188336,
+    "jp_offset": 3188336,
+    "reference_slots": [
+      4069876,
+      4069896,
+      4069916,
+      4069936
+    ]
+  },
+  {
+    "id": "rom-30a574",
+    "source_offset": 3188084,
+    "jp_offset": 3188084,
+    "reference_slots": [
+      4069956,
+      4069976,
+      4069996,
+      4070016
+    ]
+  },
+  {
+    "id": "rom-30a45c",
+    "source_offset": 3187804,
+    "jp_offset": 3187804,
+    "reference_slots": [
+      4070036,
+      4070056,
+      4070076,
+      4070096
+    ]
+  },
+  {
+    "id": "rom-30a34c",
+    "source_offset": 3187532,
+    "jp_offset": 3187532,
+    "reference_slots": [
+      4070116,
+      4070136,
+      4070156,
+      4070176
+    ]
+  },
+  {
+    "id": "rom-30a250",
+    "source_offset": 3187280,
+    "jp_offset": 3187280,
+    "reference_slots": [
+      4070196,
+      4070216,
+      4070236,
+      4070256
+    ]
+  },
+  {
+    "id": "rom-30a188",
+    "source_offset": 3187080,
+    "jp_offset": 3187080,
+    "reference_slots": [
+      4070276
+    ]
+  },
+  {
+    "id": "rom-30a114",
+    "source_offset": 3186964,
+    "jp_offset": 3186964,
+    "reference_slots": [
+      4070296
+    ]
+  },
+  {
+    "id": "rom-309ddc",
+    "source_offset": 3186140,
+    "jp_offset": 3186848,
+    "reference_slots": [
+      4070316
+    ]
+  },
+  {
+    "id": "rom-30a018",
+    "source_offset": 3186712,
+    "jp_offset": 3186712,
+    "reference_slots": [
+      4070336
+    ]
+  },
+  {
+    "id": "rom-309f88",
+    "source_offset": 3186568,
+    "jp_offset": 3186568,
+    "reference_slots": [
+      4070356
+    ]
+  },
+  {
+    "id": "rom-309f00",
+    "source_offset": 3186432,
+    "jp_offset": 3186432,
+    "reference_slots": [
+      4070376
+    ]
+  },
+  {
+    "id": "rom-309e6c",
+    "source_offset": 3186284,
+    "jp_offset": 3186284,
+    "reference_slots": [
+      4070396
+    ]
+  },
+  {
+    "id": "rom-3f2557",
+    "source_offset": 4138327,
+    "jp_offset": 3186140,
+    "reference_slots": [
+      4070416
+    ]
+  },
+  {
+    "id": "rom-309d30",
+    "source_offset": 3185968,
+    "jp_offset": 3185968,
+    "reference_slots": [
+      4070436
+    ]
+  },
+  {
+    "id": "rom-309ca4",
+    "source_offset": 3185828,
+    "jp_offset": 3185828,
+    "reference_slots": [
+      4070456
+    ]
+  },
+  {
+    "id": "rom-309c84",
+    "source_offset": 3185796,
+    "jp_offset": 3185796,
+    "reference_slots": [
+      4070476,
+      4070496,
+      4071928,
+      4071944
+    ]
+  },
+  {
+    "id": "rom-30bfb8",
+    "source_offset": 3194808,
+    "jp_offset": 3194808,
+    "reference_slots": [
+      4070536
+    ]
+  },
+  {
+    "id": "rom-30bef4",
+    "source_offset": 3194612,
+    "jp_offset": 3194612,
+    "reference_slots": [
+      4070556
+    ]
+  },
+  {
+    "id": "rom-30be1c",
+    "source_offset": 3194396,
+    "jp_offset": 3194396,
+    "reference_slots": [
+      4070576
+    ]
+  },
+  {
+    "id": "rom-30bd50",
+    "source_offset": 3194192,
+    "jp_offset": 3194192,
+    "reference_slots": [
+      4070596
+    ]
+  },
+  {
+    "id": "rom-30bc8c",
+    "source_offset": 3193996,
+    "jp_offset": 3193996,
+    "reference_slots": [
+      4070616
+    ]
+  },
+  {
+    "id": "rom-30bbd8",
+    "source_offset": 3193816,
+    "jp_offset": 3193816,
+    "reference_slots": [
+      4070636
+    ]
+  },
+  {
+    "id": "rom-30bb30",
+    "source_offset": 3193648,
+    "jp_offset": 3193648,
+    "reference_slots": [
+      4070656
+    ]
+  },
+  {
+    "id": "rom-30ba68",
+    "source_offset": 3193448,
+    "jp_offset": 3193448,
+    "reference_slots": [
+      4070676
+    ]
+  },
+  {
+    "id": "rom-30b9a0",
+    "source_offset": 3193248,
+    "jp_offset": 3193248,
+    "reference_slots": [
+      4070696
+    ]
+  },
+  {
+    "id": "rom-30b8e0",
+    "source_offset": 3193056,
+    "jp_offset": 3193056,
+    "reference_slots": [
+      4070716
+    ]
+  },
+  {
+    "id": "rom-30b818",
+    "source_offset": 3192856,
+    "jp_offset": 3192856,
+    "reference_slots": [
+      4070736
+    ]
+  },
+  {
+    "id": "rom-30b750",
+    "source_offset": 3192656,
+    "jp_offset": 3192656,
+    "reference_slots": [
+      4070756
+    ]
+  },
+  {
+    "id": "rom-30b6b8",
+    "source_offset": 3192504,
+    "jp_offset": 3192504,
+    "reference_slots": [
+      4070776
+    ]
+  },
+  {
+    "id": "rom-30b5fc",
+    "source_offset": 3192316,
+    "jp_offset": 3192316,
+    "reference_slots": [
+      4070796
+    ]
+  },
+  {
+    "id": "rom-30b554",
+    "source_offset": 3192148,
+    "jp_offset": 3192148,
+    "reference_slots": [
+      4070816
+    ]
+  },
+  {
+    "id": "rom-30b4a8",
+    "source_offset": 3191976,
+    "jp_offset": 3191976,
+    "reference_slots": [
+      4070836
+    ]
+  },
+  {
+    "id": "rom-30b3f8",
+    "source_offset": 3191800,
+    "jp_offset": 3191800,
+    "reference_slots": [
+      4070856
+    ]
+  },
+  {
+    "id": "rom-30b344",
+    "source_offset": 3191620,
+    "jp_offset": 3191620,
+    "reference_slots": [
+      4070876
+    ]
+  },
+  {
+    "id": "rom-30b28c",
+    "source_offset": 3191436,
+    "jp_offset": 3191436,
+    "reference_slots": [
+      4070896
+    ]
+  },
+  {
+    "id": "rom-30b1f0",
+    "source_offset": 3191280,
+    "jp_offset": 3191280,
+    "reference_slots": [
+      4070916
+    ]
+  },
+  {
+    "id": "rom-30b134",
+    "source_offset": 3191092,
+    "jp_offset": 3191092,
+    "reference_slots": [
+      4070936
+    ]
+  },
+  {
+    "id": "rom-30b088",
+    "source_offset": 3190920,
+    "jp_offset": 3190920,
+    "reference_slots": [
+      4070956
+    ]
+  },
+  {
+    "id": "rom-30afec",
+    "source_offset": 3190764,
+    "jp_offset": 3190764,
+    "reference_slots": [
+      4070976
+    ]
+  },
+  {
+    "id": "rom-30af2c",
+    "source_offset": 3190572,
+    "jp_offset": 3190572,
+    "reference_slots": [
+      4070996
+    ]
+  },
+  {
+    "id": "rom-3f25dc",
+    "source_offset": 4138460,
+    "jp_offset": 3190448,
+    "reference_slots": [
+      4071016
+    ]
+  },
+  {
+    "id": "rom-30adf8",
+    "source_offset": 3190264,
+    "jp_offset": 3190264,
+    "reference_slots": [
+      4071036
+    ]
+  },
+  {
+    "id": "rom-30ad54",
+    "source_offset": 3190100,
+    "jp_offset": 3190100,
+    "reference_slots": [
+      4071056
+    ]
+  },
+  {
+    "id": "rom-30aca0",
+    "source_offset": 3189920,
+    "jp_offset": 3189920,
+    "reference_slots": [
+      4071076
+    ]
+  },
+  {
+    "id": "rom-30ac14",
+    "source_offset": 3189780,
+    "jp_offset": 3189780,
+    "reference_slots": [
+      4071096
+    ]
+  },
+  {
+    "id": "rom-30ab88",
+    "source_offset": 3189640,
+    "jp_offset": 3189640,
+    "reference_slots": [
+      4071116
+    ]
+  },
+  {
+    "id": "rom-30aaf4",
+    "source_offset": 3189492,
+    "jp_offset": 3189492,
+    "reference_slots": [
+      4071136
+    ]
+  },
+  {
+    "id": "rom-30aa40",
+    "source_offset": 3189312,
+    "jp_offset": 3189312,
+    "reference_slots": [
+      4071156
+    ]
+  },
+  {
+    "id": "rom-30a9c4",
+    "source_offset": 3189188,
+    "jp_offset": 3189188,
+    "reference_slots": [
+      4071176
+    ]
+  },
+  {
+    "id": "rom-30a8fc",
+    "source_offset": 3188988,
+    "jp_offset": 3188988,
+    "reference_slots": [
+      4071196
+    ]
+  },
+  {
+    "id": "rom-30a8dc",
+    "source_offset": 3188956,
+    "jp_offset": 3188956,
+    "reference_slots": [
+      4071216,
+      4071236
+    ]
+  },
+  {
+    "id": "rom-30ccbc",
+    "source_offset": 3198140,
+    "jp_offset": 3198140,
+    "reference_slots": [
+      4071272,
+      4071288,
+      4071304,
+      4071320
+    ]
+  },
+  {
+    "id": "rom-30cb8c",
+    "source_offset": 3197836,
+    "jp_offset": 3197836,
+    "reference_slots": [
+      4071336
+    ]
+  },
+  {
+    "id": "rom-30cadc",
+    "source_offset": 3197660,
+    "jp_offset": 3197660,
+    "reference_slots": [
+      4071352,
+      4071368,
+      4071384
+    ]
+  },
+  {
+    "id": "rom-30ca08",
+    "source_offset": 3197448,
+    "jp_offset": 3197448,
+    "reference_slots": [
+      4071400,
+      4071416,
+      4071432
+    ]
+  },
+  {
+    "id": "rom-30c950",
+    "source_offset": 3197264,
+    "jp_offset": 3197264,
+    "reference_slots": [
+      4071448,
+      4071464,
+      4071480
+    ]
+  },
+  {
+    "id": "rom-30c88c",
+    "source_offset": 3197068,
+    "jp_offset": 3197068,
+    "reference_slots": [
+      4071496,
+      4071512,
+      4071528
+    ]
+  },
+  {
+    "id": "rom-30c7c4",
+    "source_offset": 3196868,
+    "jp_offset": 3196868,
+    "reference_slots": [
+      4071544,
+      4071560
+    ]
+  },
+  {
+    "id": "rom-30c728",
+    "source_offset": 3196712,
+    "jp_offset": 3196712,
+    "reference_slots": [
+      4071576,
+      4071592,
+      4071608,
+      4071624,
+      4071640
+    ]
+  },
+  {
+    "id": "rom-30c634",
+    "source_offset": 3196468,
+    "jp_offset": 3196468,
+    "reference_slots": [
+      4071656
+    ]
+  },
+  {
+    "id": "rom-30c580",
+    "source_offset": 3196288,
+    "jp_offset": 3196288,
+    "reference_slots": [
+      4071672,
+      4071688,
+      4071704
+    ]
+  },
+  {
+    "id": "rom-30c4c0",
+    "source_offset": 3196096,
+    "jp_offset": 3196096,
+    "reference_slots": [
+      4071720,
+      4071736,
+      4071752
+    ]
+  },
+  {
+    "id": "rom-3f2646",
+    "source_offset": 4138566,
+    "jp_offset": 3195900,
+    "reference_slots": [
+      4071768
+    ]
+  },
+  {
+    "id": "rom-30c3a0",
+    "source_offset": 3195808,
+    "jp_offset": 3195808,
+    "reference_slots": [
+      4071784
+    ]
+  },
+  {
+    "id": "rom-30c34c",
+    "source_offset": 3195724,
+    "jp_offset": 3195724,
+    "reference_slots": [
+      4071800
+    ]
+  },
+  {
+    "id": "rom-30c2f8",
+    "source_offset": 3195640,
+    "jp_offset": 3195640,
+    "reference_slots": [
+      4071816
+    ]
+  },
+  {
+    "id": "rom-30c298",
+    "source_offset": 3195544,
+    "jp_offset": 3195544,
+    "reference_slots": [
+      4071832
+    ]
+  },
+  {
+    "id": "rom-30c250",
+    "source_offset": 3195472,
+    "jp_offset": 3195472,
+    "reference_slots": [
+      4071848
+    ]
+  },
+  {
+    "id": "rom-30c1f8",
+    "source_offset": 3195384,
+    "jp_offset": 3195384,
+    "reference_slots": [
+      4071864
+    ]
+  },
+  {
+    "id": "rom-30c3fc",
+    "source_offset": 3195900,
+    "jp_offset": 3195260,
+    "reference_slots": [
+      4071880
+    ]
+  },
+  {
+    "id": "rom-30c0fc",
+    "source_offset": 3195132,
+    "jp_offset": 3195132,
+    "reference_slots": [
+      4071896
+    ]
+  },
+  {
+    "id": "rom-30c088",
+    "source_offset": 3195016,
+    "jp_offset": 3195016,
+    "reference_slots": [
+      4071912
+    ]
+  },
+  {
+    "id": "rom-30d984",
+    "source_offset": 3201412,
+    "jp_offset": 3201412,
+    "reference_slots": [
+      4071976
+    ]
+  },
+  {
+    "id": "rom-30d8e8",
+    "source_offset": 3201256,
+    "jp_offset": 3201256,
+    "reference_slots": [
+      4071992
+    ]
+  },
+  {
+    "id": "rom-30d83c",
+    "source_offset": 3201084,
+    "jp_offset": 3201084,
+    "reference_slots": [
+      4072008
+    ]
+  },
+  {
+    "id": "rom-30d790",
+    "source_offset": 3200912,
+    "jp_offset": 3200912,
+    "reference_slots": [
+      4072024
+    ]
+  },
+  {
+    "id": "rom-30d6f4",
+    "source_offset": 3200756,
+    "jp_offset": 3200756,
+    "reference_slots": [
+      4072040
+    ]
+  },
+  {
+    "id": "rom-30d650",
+    "source_offset": 3200592,
+    "jp_offset": 3200592,
+    "reference_slots": [
+      4072056
+    ]
+  },
+  {
+    "id": "rom-30d5c8",
+    "source_offset": 3200456,
+    "jp_offset": 3200456,
+    "reference_slots": [
+      4072072,
+      4072088
+    ]
+  },
+  {
+    "id": "rom-30d53c",
+    "source_offset": 3200316,
+    "jp_offset": 3200316,
+    "reference_slots": [
+      4072104
+    ]
+  },
+  {
+    "id": "rom-30d4b8",
+    "source_offset": 3200184,
+    "jp_offset": 3200184,
+    "reference_slots": [
+      4072120
+    ]
+  },
+  {
+    "id": "rom-30d420",
+    "source_offset": 3200032,
+    "jp_offset": 3200032,
+    "reference_slots": [
+      4072136,
+      4072152
+    ]
+  },
+  {
+    "id": "rom-30d384",
+    "source_offset": 3199876,
+    "jp_offset": 3199876,
+    "reference_slots": [
+      4072168
+    ]
+  },
+  {
+    "id": "rom-30d2e4",
+    "source_offset": 3199716,
+    "jp_offset": 3199716,
+    "reference_slots": [
+      4072184
+    ]
+  },
+  {
+    "id": "rom-30d230",
+    "source_offset": 3199536,
+    "jp_offset": 3199536,
+    "reference_slots": [
+      4072200,
+      4072216
+    ]
+  },
+  {
+    "id": "rom-30d160",
+    "source_offset": 3199328,
+    "jp_offset": 3199328,
+    "reference_slots": [
+      4072232,
+      4072248
+    ]
+  },
+  {
+    "id": "rom-30d0b4",
+    "source_offset": 3199156,
+    "jp_offset": 3199156,
+    "reference_slots": [
+      4072264,
+      4072280,
+      4072296
+    ]
+  },
+  {
+    "id": "rom-30cfe4",
+    "source_offset": 3198948,
+    "jp_offset": 3198948,
+    "reference_slots": [
+      4072312
+    ]
+  },
+  {
+    "id": "rom-30cf8c",
+    "source_offset": 3198860,
+    "jp_offset": 3198860,
+    "reference_slots": [
+      4072328
+    ]
+  },
+  {
+    "id": "rom-30cf1c",
+    "source_offset": 3198748,
+    "jp_offset": 3198748,
+    "reference_slots": [
+      4072344
+    ]
+  },
+  {
+    "id": "rom-30ceb4",
+    "source_offset": 3198644,
+    "jp_offset": 3198644,
+    "reference_slots": [
+      4072360
+    ]
+  },
+  {
+    "id": "rom-30ce5c",
+    "source_offset": 3198556,
+    "jp_offset": 3198556,
+    "reference_slots": [
+      4072376
+    ]
+  },
+  {
+    "id": "rom-3f26da",
+    "source_offset": 4138714,
+    "jp_offset": 3198452,
+    "reference_slots": [
+      4072392
+    ]
+  },
+  {
+    "id": "rom-30cd74",
+    "source_offset": 3198324,
+    "jp_offset": 3198324,
+    "reference_slots": [
+      4072408
+    ]
+  },
+  {
+    "id": "rom-30e250",
+    "source_offset": 3203664,
+    "jp_offset": 3203664,
+    "reference_slots": [
+      4072440
+    ]
+  },
+  {
+    "id": "rom-30e198",
+    "source_offset": 3203480,
+    "jp_offset": 3203480,
+    "reference_slots": [
+      4072456
+    ]
+  },
+  {
+    "id": "rom-30e108",
+    "source_offset": 3203336,
+    "jp_offset": 3203336,
+    "reference_slots": [
+      4072472
+    ]
+  },
+  {
+    "id": "rom-30e07c",
+    "source_offset": 3203196,
+    "jp_offset": 3203196,
+    "reference_slots": [
+      4072488
+    ]
+  },
+  {
+    "id": "rom-30dfd4",
+    "source_offset": 3203028,
+    "jp_offset": 3203028,
+    "reference_slots": [
+      4072504
+    ]
+  },
+  {
+    "id": "rom-30df38",
+    "source_offset": 3202872,
+    "jp_offset": 3202872,
+    "reference_slots": [
+      4072520
+    ]
+  },
+  {
+    "id": "rom-30de94",
+    "source_offset": 3202708,
+    "jp_offset": 3202708,
+    "reference_slots": [
+      4072536
+    ]
+  },
+  {
+    "id": "rom-30ddf4",
+    "source_offset": 3202548,
+    "jp_offset": 3202548,
+    "reference_slots": [
+      4072552
+    ]
+  },
+  {
+    "id": "rom-30dd64",
+    "source_offset": 3202404,
+    "jp_offset": 3202404,
+    "reference_slots": [
+      4072568
+    ]
+  },
+  {
+    "id": "rom-30dcb4",
+    "source_offset": 3202228,
+    "jp_offset": 3202228,
+    "reference_slots": [
+      4072584
+    ]
+  },
+  {
+    "id": "rom-318cb8",
+    "source_offset": 3247288,
+    "jp_offset": 3202132,
+    "reference_slots": [
+      4072600
+    ]
+  },
+  {
+    "id": "rom-30dbe8",
+    "source_offset": 3202024,
+    "jp_offset": 3202024,
+    "reference_slots": [
+      4072616
+    ]
+  },
+  {
+    "id": "rom-30db78",
+    "source_offset": 3201912,
+    "jp_offset": 3201912,
+    "reference_slots": [
+      4072632
+    ]
+  },
+  {
+    "id": "rom-30dae4",
+    "source_offset": 3201764,
+    "jp_offset": 3201764,
+    "reference_slots": [
+      4072648
+    ]
+  },
+  {
+    "id": "rom-3f274b",
+    "source_offset": 4138827,
+    "jp_offset": 3201640,
+    "reference_slots": [
+      4072664
+    ]
+  },
+  {
+    "id": "rom-30da40",
+    "source_offset": 3201600,
+    "jp_offset": 3201600,
+    "reference_slots": [
+      4072680,
+      4072696
+    ]
+  },
+  {
+    "id": "rom-30e8c4",
+    "source_offset": 3205316,
+    "jp_offset": 3205316,
+    "reference_slots": [
+      4072720
+    ]
+  },
+  {
+    "id": "rom-30e7d8",
+    "source_offset": 3205080,
+    "jp_offset": 3205080,
+    "reference_slots": [
+      4072728
+    ]
+  },
+  {
+    "id": "rom-3f27b7",
+    "source_offset": 4138935,
+    "jp_offset": 3204872,
+    "reference_slots": [
+      4072736
+    ]
+  },
+  {
+    "id": "rom-30e63c",
+    "source_offset": 3204668,
+    "jp_offset": 3204668,
+    "reference_slots": [
+      4072744
+    ]
+  },
+  {
+    "id": "rom-30e564",
+    "source_offset": 3204452,
+    "jp_offset": 3204452,
+    "reference_slots": [
+      4072752
+    ]
+  },
+  {
+    "id": "rom-30e48c",
+    "source_offset": 3204236,
+    "jp_offset": 3204236,
+    "reference_slots": [
+      4072760
+    ]
+  },
+  {
+    "id": "rom-30e3a8",
+    "source_offset": 3204008,
+    "jp_offset": 3204008,
+    "reference_slots": [
+      4072768
+    ]
+  },
+  {
+    "id": "rom-30e320",
+    "source_offset": 3203872,
+    "jp_offset": 3203872,
+    "reference_slots": [
+      4072776
+    ]
+  },
+  {
+    "id": "rom-30e2fc",
+    "source_offset": 3203836,
+    "jp_offset": 3203836,
+    "reference_slots": [
+      4072784,
+      4072792
+    ]
+  }
+]

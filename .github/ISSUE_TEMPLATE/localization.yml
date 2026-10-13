@@ -1,0 +1,26 @@
+name: Localization or layout issue
+description: Report a target-language text, rendering or build issue.
+body:
+  - type: markdown
+    attributes:
+      value: "Please do not attach ROMs, saves, private source catalogs or personal information. Give a build hash and a short reproduction description."
+  - type: input
+    id: language
+    attributes:
+      label: Target language / locale
+    validations:
+      required: true
+  - type: input
+    id: build
+    attributes:
+      label: Commit or ROM SHA-1
+  - type: textarea
+    id: steps
+    attributes:
+      label: Game area and reproduction steps
+    validations:
+      required: true
+  - type: textarea
+    id: text
+    attributes:
+      label: Observed target text and expected result

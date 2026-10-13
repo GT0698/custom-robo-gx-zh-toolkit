@@ -1,0 +1,1267 @@
+[
+  {
+    "ja": "ニカイドウ・グループ",
+    "zh": "二阶堂集团",
+    "kind": "organization"
+  },
+  {
+    "ja": "ニカイドウ伯しゃく",
+    "zh": "二阶堂伯爵",
+    "kind": "character-title"
+  },
+  {
+    "ja": "クロスボーン",
+    "zh": "交叉骨",
+    "kind": "robo"
+  },
+  {
+    "ja": "アイアンレオ",
+    "zh": "钢铁狮子",
+    "kind": "robo"
+  },
+  {
+    "ja": "ライトニングスカイヤー",
+    "zh": "闪电飞行型",
+    "kind": "robo-class"
+  },
+  {
+    "ja": "ストライクバニッシャー",
+    "zh": "突击隐形型",
+    "kind": "robo-class"
+  },
+  {
+    "ja": "パトリオット",
+    "zh": "爱国者",
+    "kind": "robo"
+  },
+  {
+    "ja": "自律機動型ロボ",
+    "zh": "自主行动型机器人",
+    "kind": "technology"
+  },
+  {
+    "ja": "エネルギー研究所",
+    "zh": "能源研究所",
+    "kind": "location"
+  },
+  {
+    "ja": "イサオ",
+    "zh": "伊佐奥",
+    "kind": "alias"
+  },
+  {
+    "ja": "ミディアムショップ",
+    "zh": "中级商店",
+    "kind": "shop"
+  },
+  {
+    "ja": "アクションチップ",
+    "zh": "动作芯片",
+    "kind": "part-category"
+  },
+  {
+    "ja": "闇バトル場",
+    "zh": "地下对战场",
+    "kind": "location"
+  },
+  {
+    "ja": "違法ロボ",
+    "zh": "违禁机器人",
+    "kind": "robo-category"
+  },
+  {
+    "ja": "違法パーツ",
+    "zh": "违禁零件",
+    "kind": "part-category"
+  },
+  {
+    "ja": "シルバ",
+    "zh": "西尔巴",
+    "kind": "currency-unit"
+  },
+  {
+    "ja": "ロボクレジット",
+    "zh": "机器人信用点",
+    "kind": "currency"
+  },
+  {
+    "ja": "ポリス・モバイル・ターミナル",
+    "zh": "警用移动终端",
+    "kind": "item"
+  },
+  {
+    "ja": "ＰＭＴ",
+    "zh": "PMT",
+    "kind": "item-abbreviation"
+  },
+  {
+    "ja": "闇の会員証",
+    "zh": "地下会员证",
+    "kind": "key-item"
+  },
+  {
+    "ja": "参加証",
+    "zh": "参赛证",
+    "kind": "key-item"
+  },
+  {
+    "ja": "火の大会",
+    "zh": "火之大会",
+    "kind": "tournament"
+  },
+  {
+    "ja": "火の参加証",
+    "zh": "火之参赛证",
+    "kind": "key-item"
+  },
+  {
+    "ja": "四天王",
+    "zh": "四天王",
+    "kind": "group"
+  },
+  {
+    "ja": "特別捜査課",
+    "zh": "特别调查科",
+    "kind": "organization"
+  },
+  {
+    "ja": "ナノ・サーチャー",
+    "zh": "纳米探测器",
+    "kind": "item"
+  },
+  {
+    "ja": "ナノ・マシン",
+    "zh": "纳米机器",
+    "kind": "technology"
+  },
+  {
+    "ja": "ユリエ",
+    "zh": "百合惠",
+    "kind": "character"
+  },
+  {
+    "ja": "ジロウ",
+    "zh": "次郎",
+    "kind": "character"
+  },
+  {
+    "ja": "カンザキ",
+    "zh": "神崎",
+    "kind": "character"
+  },
+  {
+    "ja": "カーン",
+    "zh": "卡恩",
+    "kind": "character"
+  },
+  {
+    "ja": "リョウ",
+    "zh": "亮",
+    "kind": "character"
+  },
+  {
+    "ja": "ロボマスターズ",
+    "zh": "机器人大师赛",
+    "kind": "tournament"
+  },
+  {
+    "ja": "マスターショップ",
+    "zh": "大师商店",
+    "kind": "shop"
+  },
+  {
+    "ja": "水の参加証",
+    "zh": "水之参赛证",
+    "kind": "key-item"
+  },
+  {
+    "ja": "フカシ",
+    "zh": "福志",
+    "kind": "character"
+  },
+  {
+    "ja": "ドレッド",
+    "zh": "德雷德",
+    "kind": "proper-name"
+  },
+  {
+    "ja": "ゴライアス",
+    "zh": "歌利亚",
+    "kind": "proper-name"
+  },
+  {
+    "ja": "ドデカンターボ",
+    "zh": "巨无霸涡轮",
+    "kind": "robo"
+  },
+  {
+    "ja": "スティングレイ",
+    "zh": "刺鳐",
+    "kind": "robo"
+  },
+  {
+    "ja": "レイ",
+    "zh": "Ray",
+    "kind": "robo-family"
+  },
+  {
+    "ja": "レイスカイヤー",
+    "zh": "Ray Sky",
+    "kind": "robo/password"
+  },
+  {
+    "ja": "ポータブル・ホロセウム",
+    "zh": "便携全息竞技场",
+    "kind": "item"
+  },
+  {
+    "ja": "ルナ",
+    "zh": "露娜",
+    "kind": "robo"
+  },
+  {
+    "ja": "グレートドーム",
+    "zh": "超级巨蛋",
+    "kind": "venue"
+  },
+  {
+    "ja": "ナビゲーター",
+    "zh": "领航员",
+    "kind": "role"
+  },
+  {
+    "ja": "レイフォールガン",
+    "zh": "光雨枪",
+    "kind": "part"
+  },
+  {
+    "ja": "挑戦者決定戦",
+    "zh": "挑战者决定战",
+    "kind": "tournament-round"
+  },
+  {
+    "ja": "マシュウマウンテン",
+    "zh": "马修山",
+    "kind": "fictional-location"
+  },
+  {
+    "ja": "カードキー",
+    "zh": "钥匙卡",
+    "kind": "key-item"
+  },
+  {
+    "ja": "リュウジン",
+    "zh": "龙神",
+    "kind": "character"
+  },
+  {
+    "ja": "カミーラ",
+    "zh": "卡米拉",
+    "kind": "character"
+  },
+  {
+    "ja": "ヘルファイア",
+    "zh": "地狱烈焰",
+    "kind": "robo"
+  },
+  {
+    "ja": "ユウキ",
+    "zh": "优希",
+    "kind": "character-given-name"
+  },
+  {
+    "ja": "ヤナイ",
+    "zh": "柳井",
+    "kind": "character"
+  },
+  {
+    "ja": "ガイオウ",
+    "zh": "盖欧",
+    "kind": "character"
+  },
+  {
+    "ja": "知性",
+    "zh": "智慧",
+    "kind": "story-concept"
+  },
+  {
+    "ja": "サンプリング",
+    "zh": "采样",
+    "kind": "story-concept"
+  },
+  {
+    "ja": "ダークキメラ",
+    "zh": "黑暗奇美拉",
+    "kind": "robo"
+  },
+  {
+    "ja": "Ａ・Ｉ・Ｒ・Ｓ",
+    "zh": "A·I·R·S",
+    "kind": "robo"
+  },
+  {
+    "ja": "エアーズ",
+    "zh": "艾尔斯",
+    "kind": "robo-pronunciation"
+  },
+  {
+    "ja": "タクマ",
+    "zh": "拓真",
+    "kind": "character"
+  },
+  {
+    "ja": "デッドフェイス",
+    "zh": "死亡面孔",
+    "kind": "robo"
+  },
+  {
+    "ja": "クロスシザーズ",
+    "zh": "交叉剪",
+    "kind": "robo"
+  },
+  {
+    "ja": "ロバート",
+    "zh": "罗伯特",
+    "kind": "character"
+  },
+  {
+    "ja": "アカネ",
+    "zh": "茜",
+    "kind": "character"
+  },
+  {
+    "ja": "ダークサム",
+    "zh": "黑暗山姆",
+    "kind": "robo"
+  },
+  {
+    "ja": "デビルレックス",
+    "zh": "恶魔暴龙",
+    "kind": "robo"
+  },
+  {
+    "ja": "エクスカリバー",
+    "zh": "圣剑",
+    "kind": "robo"
+  },
+  {
+    "ja": "メシエ",
+    "zh": "梅西耶",
+    "kind": "robo"
+  },
+  {
+    "ja": "プルート",
+    "zh": "普鲁托",
+    "kind": "robo"
+  },
+  {
+    "ja": "イケダ",
+    "zh": "池田",
+    "kind": "character"
+  },
+  {
+    "ja": "ジュンコ",
+    "zh": "纯子",
+    "kind": "character"
+  },
+  {
+    "ja": "シンサク",
+    "zh": "新作",
+    "kind": "character"
+  },
+  {
+    "ja": "チハル",
+    "zh": "千春",
+    "kind": "character"
+  },
+  {
+    "ja": "ガラポン",
+    "zh": "嘎啦砰",
+    "kind": "robo"
+  },
+  {
+    "ja": "お好み焼き",
+    "zh": "御好烧",
+    "kind": "food"
+  },
+  {
+    "ja": "コタツ",
+    "zh": "被炉",
+    "kind": "household"
+  },
+  {
+    "ja": "トラジ",
+    "zh": "虎次",
+    "kind": "character"
+  },
+  {
+    "ja": "ハヤオ",
+    "zh": "隼雄",
+    "kind": "character"
+  },
+  {
+    "ja": "ヤマダ",
+    "zh": "山田",
+    "kind": "character"
+  },
+  {
+    "ja": "トーナメント戦",
+    "zh": "淘汰赛",
+    "kind": "tournament-format"
+  },
+  {
+    "ja": "リーグ戦",
+    "zh": "循环赛",
+    "kind": "tournament-format"
+  },
+  {
+    "ja": "勝ち抜き戦",
+    "zh": "连胜赛",
+    "kind": "tournament-format"
+  },
+  {
+    "ja": "マッチバトル",
+    "zh": "单挑对战",
+    "kind": "battle-mode"
+  },
+  {
+    "ja": "フリーバトル",
+    "zh": "自由对战",
+    "kind": "battle-mode"
+  },
+  {
+    "ja": "ロボテクノロジー研究所",
+    "zh": "机器人技术研究所",
+    "kind": "location"
+  },
+  {
+    "ja": "オーバーロード",
+    "zh": "过载",
+    "kind": "mechanic"
+  },
+  {
+    "ja": "ジャイロ",
+    "zh": "方向指示器",
+    "kind": "ui-indicator"
+  },
+  {
+    "ja": "ミスティミラージュ",
+    "zh": "迷雾幻影型",
+    "kind": "robo-class"
+  },
+  {
+    "ja": "シャイニングファイター",
+    "zh": "闪耀战士型",
+    "kind": "robo-class"
+  },
+  {
+    "ja": "エアリアルビューティ",
+    "zh": "空中丽人型",
+    "kind": "robo-class"
+  },
+  {
+    "ja": "ホーネットバスター",
+    "zh": "胡蜂爆破枪",
+    "kind": "gun"
+  },
+  {
+    "ja": "バブルスマッシャー",
+    "zh": "泡泡粉碎枪",
+    "kind": "gun"
+  },
+  {
+    "ja": "リフレクトレーザー",
+    "zh": "反射激光枪",
+    "kind": "gun"
+  },
+  {
+    "ja": "ヤジュウポッド",
+    "zh": "野兽辅助舱",
+    "kind": "pod"
+  },
+  {
+    "ja": "エナジーダガー",
+    "zh": "能量匕首",
+    "kind": "gun"
+  },
+  {
+    "ja": "ショルダータックル",
+    "zh": "肩撞",
+    "kind": "action-chip"
+  },
+  {
+    "ja": "ショットガン",
+    "zh": "霰弹枪",
+    "kind": "gun"
+  },
+  {
+    "ja": "がまん値",
+    "zh": "抗倒值",
+    "kind": "stat"
+  },
+  {
+    "ja": "ダウン力",
+    "zh": "击倒力",
+    "kind": "stat"
+  },
+  {
+    "ja": "プロテクター",
+    "zh": "护盾",
+    "kind": "defensive-action-chip"
+  },
+  {
+    "ja": "マスターズアイル",
+    "zh": "大师岛",
+    "kind": "location"
+  },
+  {
+    "ja": "レディＰ",
+    "zh": "P女士",
+    "kind": "character"
+  },
+  {
+    "ja": "マモっち",
+    "zh": "阿守",
+    "kind": "nickname"
+  },
+  {
+    "ja": "課題バトル",
+    "zh": "课题对战",
+    "kind": "battle-mode"
+  },
+  {
+    "ja": "バトルタワー",
+    "zh": "对战塔",
+    "kind": "location"
+  },
+  {
+    "ja": "コマンダーチェック",
+    "zh": "指挥官评定",
+    "kind": "feature"
+  },
+  {
+    "ja": "チャレンジカップ",
+    "zh": "挑战杯",
+    "kind": "tournament"
+  },
+  {
+    "ja": "ニンジャバレット",
+    "zh": "忍者子弹枪",
+    "kind": "gun"
+  },
+  {
+    "ja": "アルティメットフォート",
+    "zh": "究极要塞",
+    "kind": "location"
+  },
+  {
+    "ja": "ダークステーション",
+    "zh": "黑暗中心",
+    "kind": "location"
+  },
+  {
+    "ja": "ハンディ",
+    "zh": "让步设置",
+    "kind": "battle-option"
+  },
+  {
+    "ja": "ナイト",
+    "zh": "骑士",
+    "kind": "robo"
+  },
+  {
+    "ja": "フェニックス",
+    "zh": "凤凰",
+    "kind": "robo"
+  },
+  {
+    "ja": "ヨシツネ",
+    "zh": "义经",
+    "kind": "robo"
+  },
+  {
+    "ja": "ソルＭｋⅡ",
+    "zh": "索尔MkⅡ",
+    "kind": "robo"
+  },
+  {
+    "ja": "フレアＭｋⅡ",
+    "zh": "耀斑MkⅡ",
+    "kind": "robo"
+  },
+  {
+    "ja": "リザードボム",
+    "zh": "蜥蜴炸弹",
+    "kind": "bomb"
+  },
+  {
+    "ja": "バウンドボム",
+    "zh": "弹跳炸弹",
+    "kind": "bomb"
+  },
+  {
+    "ja": "ウォールボム",
+    "zh": "墙壁炸弹",
+    "kind": "bomb"
+  },
+  {
+    "ja": "ジオトラップボム",
+    "zh": "地形陷阱炸弹",
+    "kind": "bomb"
+  },
+  {
+    "ja": "ガラポンガン",
+    "zh": "嘎啦砰枪",
+    "kind": "gun"
+  },
+  {
+    "ja": "ガラポンボム",
+    "zh": "嘎啦砰炸弹",
+    "kind": "bomb"
+  },
+  {
+    "ja": "ガラポンポッド",
+    "zh": "嘎啦砰辅助舱",
+    "kind": "pod"
+  },
+  {
+    "ja": "クロスガンナー",
+    "zh": "十字枪手装置",
+    "kind": "gunner"
+  },
+  {
+    "ja": "４ウェイガンナー",
+    "zh": "四向枪手装置",
+    "kind": "gunner"
+  },
+  {
+    "ja": "スマッシュガンナー",
+    "zh": "猛击枪手装置",
+    "kind": "gunner"
+  },
+  {
+    "ja": "リフレクトポッド",
+    "zh": "反射辅助舱",
+    "kind": "pod"
+  },
+  {
+    "ja": "スピードポッド",
+    "zh": "高速辅助舱",
+    "kind": "pod"
+  },
+  {
+    "ja": "サテライトポッド",
+    "zh": "卫星辅助舱",
+    "kind": "pod"
+  },
+  {
+    "ja": "プラズマボール",
+    "zh": "等离子球",
+    "kind": "gun"
+  },
+  {
+    "ja": "パルスナックル",
+    "zh": "脉冲拳",
+    "kind": "gun"
+  },
+  {
+    "ja": "マルチプルミサイル",
+    "zh": "多重导弹",
+    "kind": "gun"
+  },
+  {
+    "ja": "ファルシオン",
+    "zh": "弯刀",
+    "kind": "robo"
+  },
+  {
+    "ja": "エイジ",
+    "zh": "英司",
+    "kind": "character"
+  },
+  {
+    "ja": "ノンリミットバトル",
+    "zh": "无限对战",
+    "kind": "battle-mode"
+  },
+  {
+    "ja": "パーツ取り上げバトル",
+    "zh": "零件封禁战",
+    "kind": "battle-mode"
+  },
+  {
+    "ja": "アルティメットバトル",
+    "zh": "究极对战",
+    "kind": "battle-mode"
+  },
+  {
+    "ja": "ブラッディカップ",
+    "zh": "血色杯",
+    "kind": "tournament"
+  },
+  {
+    "ja": "カリン",
+    "zh": "卡琳",
+    "kind": "character"
+  },
+  {
+    "ja": "ヤイバ",
+    "zh": "刃",
+    "kind": "character"
+  },
+  {
+    "ja": "ツルギ",
+    "zh": "剑",
+    "kind": "character"
+  },
+  {
+    "ja": "デュアルダイブ",
+    "zh": "双重潜入",
+    "kind": "mechanic"
+  },
+  {
+    "ja": "ダイブ",
+    "zh": "潜入",
+    "kind": "mechanic"
+  },
+  {
+    "ja": "ライジングキメラ",
+    "zh": "升腾奇美拉",
+    "kind": "robo"
+  },
+  {
+    "ja": "ダークスター",
+    "zh": "暗星",
+    "kind": "holosseum"
+  },
+  {
+    "ja": "ナナセ",
+    "zh": "七濑",
+    "kind": "character"
+  },
+  {
+    "ja": "タクマ塾",
+    "zh": "拓真塾",
+    "kind": "organization"
+  },
+  {
+    "ja": "ネオメタルベア",
+    "zh": "新金属熊",
+    "kind": "robo"
+  },
+  {
+    "ja": "ロボキチ",
+    "zh": "罗波吉",
+    "kind": "character"
+  },
+  {
+    "ja": "カトレア",
+    "zh": "卡特兰",
+    "kind": "character"
+  },
+  {
+    "ja": "ラムダ社",
+    "zh": "拉姆达社",
+    "kind": "organization"
+  },
+  {
+    "ja": "クナイ",
+    "zh": "苦无",
+    "kind": "robo"
+  },
+  {
+    "ja": "コテング",
+    "zh": "小天狗",
+    "kind": "character"
+  },
+  {
+    "ja": "フェーベ",
+    "zh": "菲比",
+    "kind": "robo"
+  },
+  {
+    "ja": "シャドウ",
+    "zh": "影子",
+    "kind": "character"
+  },
+  {
+    "ja": "サムエル",
+    "zh": "塞缪尔",
+    "kind": "character"
+  },
+  {
+    "ja": "マカノモールカップ",
+    "zh": "马卡诺商场杯",
+    "kind": "tournament"
+  },
+  {
+    "ja": "マカノパーク",
+    "zh": "马卡诺乐园",
+    "kind": "location"
+  },
+  {
+    "ja": "マカノ武道館",
+    "zh": "马卡诺武道馆",
+    "kind": "location"
+  },
+  {
+    "ja": "チャンピオンズカップ",
+    "zh": "冠军杯",
+    "kind": "tournament"
+  },
+  {
+    "ja": "お父さん",
+    "zh": "爸爸",
+    "kind": "character"
+  },
+  {
+    "ja": "お母さん",
+    "zh": "妈妈",
+    "kind": "character"
+  },
+  {
+    "ja": "イケダ先生",
+    "zh": "池田老师",
+    "kind": "character"
+  },
+  {
+    "ja": "コウシロウ",
+    "zh": "光四郎",
+    "kind": "character"
+  },
+  {
+    "ja": "コマンダーＡ",
+    "zh": "指挥官A",
+    "kind": "character"
+  },
+  {
+    "ja": "コマンダーＢ",
+    "zh": "指挥官B",
+    "kind": "character"
+  },
+  {
+    "ja": "タケヒロ",
+    "zh": "武宏",
+    "kind": "character"
+  },
+  {
+    "ja": "ツルギ＆ヤイバ",
+    "zh": "剑与刃",
+    "kind": "character"
+  },
+  {
+    "ja": "ニカイドウ",
+    "zh": "二阶堂",
+    "kind": "character"
+  },
+  {
+    "ja": "ヒコマロ",
+    "zh": "彦麻吕",
+    "kind": "character"
+  },
+  {
+    "ja": "ヒトミ",
+    "zh": "瞳",
+    "kind": "character"
+  },
+  {
+    "ja": "マモル",
+    "zh": "守",
+    "kind": "character"
+  },
+  {
+    "ja": "マユズミ",
+    "zh": "黛",
+    "kind": "character"
+  },
+  {
+    "ja": "ユウスケ",
+    "zh": "优介",
+    "kind": "character"
+  },
+  {
+    "ja": "ロボ博士",
+    "zh": "机器人博士",
+    "kind": "character"
+  },
+  {
+    "ja": "受付嬢",
+    "zh": "前台",
+    "kind": "character"
+  },
+  {
+    "ja": "署長",
+    "zh": "署长",
+    "kind": "character"
+  },
+  {
+    "ja": "ソニックライフル",
+    "zh": "音速步枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "グライダーウィング",
+    "zh": "滑翔翼",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "イーグルカッター",
+    "zh": "鹰翼切割枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "スターレイヤー",
+    "zh": "星层枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "トラクションリング",
+    "zh": "牵引环",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "メテオフリッカー",
+    "zh": "流星闪烁枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "５ウェイレーザー",
+    "zh": "五向激光枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "スプレッドシェル",
+    "zh": "扩散弹壳枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "クロスシザース",
+    "zh": "交叉剪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ファングブロー",
+    "zh": "獠牙冲击枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ブリザードレイン",
+    "zh": "暴雪雨",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ダークネスブロー",
+    "zh": "黑暗冲击",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "バイキングアックス",
+    "zh": "维京战斧",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ダークプラズマ",
+    "zh": "黑暗等离子",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ライジングプラズマ",
+    "zh": "升腾等离子",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "スタンダードボム",
+    "zh": "标准炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ピラーボム",
+    "zh": "柱状炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "サブマリンボム",
+    "zh": "潜航炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "アイドリングボム",
+    "zh": "潜伏炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ジェミニボム",
+    "zh": "双子炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ストライクボム",
+    "zh": "突击炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ツインスネークボム",
+    "zh": "双蛇炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ダークボム",
+    "zh": "黑暗炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ライジングボム",
+    "zh": "升腾炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "サテライトガンナー",
+    "zh": "卫星枪手装置",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "フェイントガンナー",
+    "zh": "佯攻枪手装置",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "スローイングガンナー",
+    "zh": "投掷枪手装置",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "シーカーガンナー",
+    "zh": "追踪枪手装置",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "スタンダードポッド",
+    "zh": "标准辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "シーカーポッド",
+    "zh": "追踪辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "フェイントポッド",
+    "zh": "佯攻辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ドルフィンポッド",
+    "zh": "海豚辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "スローイングポッド",
+    "zh": "投掷辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "サイドウェイポッド",
+    "zh": "侧向辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "スマッシュポッド",
+    "zh": "猛击辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ダークガンナー",
+    "zh": "黑暗枪手装置",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ライジングガンナー",
+    "zh": "升腾枪手装置",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "トルネードビート",
+    "zh": "旋风打击",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ショートスラッシュ",
+    "zh": "短距斩击",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ブレイクタックル",
+    "zh": "穿墙冲撞",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ブレイクトルネード",
+    "zh": "穿墙旋风",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ライトプロテクター",
+    "zh": "轻型护盾",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ダークスライド",
+    "zh": "黑暗滑行",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ライジングスライド",
+    "zh": "升腾滑行",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ＡＲＳ−Ｇ０２",
+    "zh": "ARS−G02",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "スーパーノヴァ",
+    "zh": "超新星",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "サーキュレーションＷ",
+    "zh": "双环绕装置",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "フォースプロテクター",
+    "zh": "力场护盾",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "クレイモア",
+    "zh": "阔剑",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "デモンブレイズ",
+    "zh": "魔焰",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ビッグフット",
+    "zh": "大脚怪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "Ｘ−レイ",
+    "zh": "X射线",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ジャベリンＭｋⅡ",
+    "zh": "标枪MkⅡ",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "タイガーグレア",
+    "zh": "虎视",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "デスメタルベア",
+    "zh": "死亡金属熊",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "フォトン",
+    "zh": "光子",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "マサカド",
+    "zh": "将门",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ガイオウガン",
+    "zh": "盖欧枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ガイオウボム",
+    "zh": "盖欧炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ガイオウポッド",
+    "zh": "盖欧辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "リュウジンガン",
+    "zh": "龙神枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "リュウジンボム",
+    "zh": "龙神炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "リュウジンポッド",
+    "zh": "龙神辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "カミーラガン",
+    "zh": "卡米拉枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "カミーラボム",
+    "zh": "卡米拉炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "カミーラポッド",
+    "zh": "卡米拉辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ヤナイガン",
+    "zh": "柳井枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ヤナイボム",
+    "zh": "柳井炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ヤナイポッド",
+    "zh": "柳井辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ニカイドウガン",
+    "zh": "二阶堂枪",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ニカイドウボム",
+    "zh": "二阶堂炸弹",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ニカイドウポッド",
+    "zh": "二阶堂辅助舱",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ツインガンナー",
+    "zh": "双联枪手装置",
+    "kind": "part-or-robo"
+  },
+  {
+    "ja": "ラウンドガンナー",
+    "zh": "环绕枪手装置",
+    "kind": "part-or-robo"
+  }
+]

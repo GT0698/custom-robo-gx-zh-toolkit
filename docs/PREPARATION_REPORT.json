@@ -1,0 +1,22 @@
+{
+  "prepared": true,
+  "reference_build_byte_identical": true,
+  "reference_target_sha1": "4816ac49f58e5e3648e018b976de3ed50451b30c",
+  "BPS_roundtrip_passed": true,
+  "pure_tests_passed": 9,
+  "bounded_runtime_cases_passed": 6,
+  "locale_catalog_roundtrip_passed": true,
+  "edited_target_language_starting_pack_build_passed": true,
+  "full_target_language_sample": "One French line only; not a complete French localization",
+  "source_corpus_regenerated_locally": true,
+  "personal_paths_or_credentials_in_export": false,
+  "ROM_save_state_screenshots_in_export": false,
+  "English_base_credit_in_both_READMEs": true,
+  "English_upstream_commit_inspected": "68a7e2c376c021b5feb3e13be21f30776b2c5344",
+  "license_finalized": false,
+  "public_publication_performed": false,
+  "full_single_player_acceptance": false,
+  "tooling_license": "MIT for project-authored contributions",
+  "all_components_rights_cleared": false,
+  "report_scope": "Preparation evidence before initial publication; publication receipt stored separately."
+}

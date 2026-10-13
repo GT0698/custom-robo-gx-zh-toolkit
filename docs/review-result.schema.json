@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "verdict", "reason", "source_sha256", "target_sha256"],
+    "properties": {
+      "id": {"type": "string", "minLength": 1},
+      "verdict": {"enum": ["keep", "fix", "needs_context"]},
+      "reason": {"type": "string", "minLength": 1},
+      "source_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+      "target_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+      "suggestion": {"type": "string"}
+    },
+    "additionalProperties": false
+  }
+}

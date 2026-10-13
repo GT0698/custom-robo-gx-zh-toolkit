@@ -1,0 +1,3824 @@
+[
+  {
+    "id": "rom-309db8",
+    "source_offset": 3186104,
+    "zh": "重装壮汉型",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-309e54",
+    "source_offset": 3186260,
+    "zh": "废品型",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a210",
+    "source_offset": 3187216,
+    "zh": "违禁型",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a2f4",
+    "source_offset": 3187444,
+    "zh": "迷雾幻影型",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a404",
+    "source_offset": 3187716,
+    "zh": "闪电飞行型",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a518",
+    "source_offset": 3187992,
+    "zh": "突击隐形型",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a620",
+    "source_offset": 3188256,
+    "zh": "金属格斗型",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a71c",
+    "source_offset": 3188508,
+    "zh": "空中丽人型",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a89c",
+    "source_offset": 3188892,
+    "zh": "闪耀战士型",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a73c",
+    "source_offset": 3188540,
+    "zh": "力量",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a74c",
+    "source_offset": 3188556,
+    "zh": "装甲",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a7ec",
+    "source_offset": 3188716,
+    "zh": "速度",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30a890",
+    "source_offset": 3188880,
+    "zh": "标准",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30e9d4",
+    "source_offset": 3205588,
+    "zh": "        A：确定 B：返回 R：说明         ",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-footer"
+  },
+  {
+    "id": "rom-30ea00",
+    "source_offset": 3205632,
+    "zh": "    A：确定 B：返回 R：说明 L：试射     ",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-footer"
+  },
+  {
+    "id": "rom-30ea6c",
+    "source_offset": 3205740,
+    "zh": "        R：说明 SELECT：退出观赏        ",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-footer"
+  },
+  {
+    "id": "rom-30eaa0",
+    "source_offset": 3205792,
+    "zh": "        R：说明 SELECT：观赏模式        ",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-footer"
+  },
+  {
+    "id": "rom-30eacc",
+    "source_offset": 3205836,
+    "zh": "      R：说明 L：试射 SELECT：观赏      ",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-footer"
+  },
+  {
+    "id": "rom-30eb04",
+    "source_offset": 3205892,
+    "zh": "     方向：部位 A：更换 START：确定     ",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-footer"
+  },
+  {
+    "id": "rom-30ec28",
+    "source_offset": 3206184,
+    "zh": "风格：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ec34",
+    "source_offset": 3206196,
+    "zh": "攻击力：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ec40",
+    "source_offset": 3206208,
+    "zh": "防御力：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ec4c",
+    "source_offset": 3206220,
+    "zh": "抗倒值：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ec58",
+    "source_offset": 3206232,
+    "zh": "机动性：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ec64",
+    "source_offset": 3206244,
+    "zh": "攻击力：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ec70",
+    "source_offset": 3206256,
+    "zh": "速度：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ec7c",
+    "source_offset": 3206268,
+    "zh": "追踪：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ec88",
+    "source_offset": 3206280,
+    "zh": "连射：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ec94",
+    "source_offset": 3206292,
+    "zh": "击倒力：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30eca0",
+    "source_offset": 3206304,
+    "zh": "有效射程：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ecac",
+    "source_offset": 3206316,
+    "zh": "弹数：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ecb8",
+    "source_offset": 3206328,
+    "zh": "穿墙：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ecc4",
+    "source_offset": 3206340,
+    "zh": "能",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30eccc",
+    "source_offset": 3206348,
+    "zh": "不能",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ecdc",
+    "source_offset": 3206364,
+    "zh": "射程：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ecec",
+    "source_offset": 3206380,
+    "zh": "速度：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ecfc",
+    "source_offset": 3206396,
+    "zh": "追踪：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ed0c",
+    "source_offset": 3206412,
+    "zh": "同时发射数：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-30ed20",
+    "source_offset": 3206432,
+    "zh": "类型：",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-type-or-stat"
+  },
+  {
+    "id": "rom-309ca4",
+    "source_offset": 3185828,
+    "jp_offset": 3185828,
+    "reference_slots": [
+      4070456
+    ],
+    "parts": [
+      "#AＡ・Ｉ・Ｒ・Ｓ"
+    ],
+    "zh": "将闪电飞行型强化为军$n用的机体。攻击、防$n御、移动速度等各项性$n能均已提升。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-309d30",
+    "source_offset": 3185968,
+    "jp_offset": 3185968,
+    "reference_slots": [
+      4070436
+    ],
+    "parts": [
+      "ドデカンターボ"
+    ],
+    "zh": "福志的专用机体。冲刺$n距离长，能穿墙，也能$n中途停止，操控方便，$n但速度较慢。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-309ddc",
+    "source_offset": 3186140,
+    "jp_offset": 3186848,
+    "reference_slots": [
+      4070316
+    ],
+    "parts": [
+      "#Iデビルレックス"
+    ],
+    "zh": "以金属格斗型为基础的$n违禁机体。抗倒值更$n高，非常不容易倒地。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-309e6c",
+    "source_offset": 3186284,
+    "jp_offset": 3186284,
+    "reference_slots": [
+      4070396
+    ],
+    "parts": [
+      "#Iデモンブレイズ"
+    ],
+    "zh": "以迷雾幻影型为基础的$n违禁机体。冲刺速度提$n升，没有明显弱点，更$n容易迷惑对手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-309f00",
+    "source_offset": 3186432,
+    "jp_offset": 3186432,
+    "reference_slots": [
+      4070376
+    ],
+    "parts": [
+      "#Iヘルファイア"
+    ],
+    "zh": "以闪电飞行型为基础的$n违禁机体。攻击力高于$n其他所有机体，能造成$n巨大伤害。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-309f88",
+    "source_offset": 3186568,
+    "jp_offset": 3186568,
+    "reference_slots": [
+      4070356
+    ],
+    "parts": [
+      "#Iクレイモア"
+    ],
+    "zh": "以突击隐形型为基础的$n违禁机体。冲刺距离更$n长，更容易用隐形冲刺$n消除对手的子弹。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30a018",
+    "source_offset": 3186712,
+    "jp_offset": 3186712,
+    "reference_slots": [
+      4070336
+    ],
+    "parts": [
+      "#Iビッグフット"
+    ],
+    "zh": "以金属格斗型为基础的$n违禁机体。防御力提$n升，能大幅减少受到的$n伤害。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30a114",
+    "source_offset": 3186964,
+    "jp_offset": 3186964,
+    "reference_slots": [
+      4070296
+    ],
+    "parts": [
+      "#Iメシエ"
+    ],
+    "zh": "以空中丽人型为基础的$n违禁机体。普通移动速$n度更快，更容易躲避对$n手的子弹。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30a188",
+    "source_offset": 3187080,
+    "jp_offset": 3187080,
+    "reference_slots": [
+      4070276
+    ],
+    "parts": [
+      "#Iダークサム"
+    ],
+    "zh": "以闪耀战士型为基础的$n违禁机体。攻击、防御$n与冲刺性能均略有提$n升，非常容易使用。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30a250",
+    "source_offset": 3187280,
+    "jp_offset": 3187280,
+    "reference_slots": [
+      4070196,
+      4070216,
+      4070236,
+      4070256
+    ],
+    "parts": [
+      "デッドフェイス",
+      "マサカド",
+      "クロスボーン",
+      "ヨシツネ"
+    ],
+    "zh": "性能均衡，能用隐身冲$n刺迷惑对手。幻影冲刺$n速度虽慢，但能长时间$n隐身，并穿墙移动。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30a34c",
+    "source_offset": 3187532,
+    "jp_offset": 3187532,
+    "reference_slots": [
+      4070116,
+      4070136,
+      4070156,
+      4070176
+    ],
+    "parts": [
+      "レイスカイヤー",
+      "スティングレイ",
+      "パトリオット",
+      "フェニックス"
+    ],
+    "zh": "冲刺性能极佳，但比其$n他类型更容易倒地。按$n冲刺键会变形，持续高$n速飞行，还能一边冲刺$n一边开枪。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30a45c",
+    "source_offset": 3187804,
+    "jp_offset": 3187804,
+    "reference_slots": [
+      4070036,
+      4070056,
+      4070076,
+      4070096
+    ],
+    "parts": [
+      "ファルシオン",
+      "クナイ",
+      "ジャベリンＭｋⅡ",
+      "エクスカリバー"
+    ],
+    "zh": "冲刺迅速强劲，但稍易$n倒地。隐形冲刺能隐藏$n身形，使对手的枪弹无$n法命中。冲刺时也能开$n枪。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30a574",
+    "source_offset": 3188084,
+    "jp_offset": 3188084,
+    "reference_slots": [
+      4069956,
+      4069976,
+      4069996,
+      4070016
+    ],
+    "parts": [
+      "ネオメタルベア",
+      "アイアンレオ",
+      "タイガーグレア",
+      "デスメタルベア"
+    ],
+    "zh": "动作慢，但不易倒地，$n防御力也高。冲刺中不$n能转向，较难使用，但$n可以穿墙，也能边冲刺$n边开枪。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30a670",
+    "source_offset": 3188336,
+    "jp_offset": 3188336,
+    "reference_slots": [
+      4069876,
+      4069896,
+      4069916,
+      4069936
+    ],
+    "parts": [
+      "ルナ",
+      "フレアＭｋⅡ",
+      "プルート",
+      "フェーベ"
+    ],
+    "zh": "性能均衡，容易使用。$n冲刺中再次按冲刺键，$n可随时停止冲刺，便于$n精细地调整位置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30a764",
+    "source_offset": 3188580,
+    "jp_offset": 3188580,
+    "reference_slots": [
+      4069816
+    ],
+    "parts": [
+      "ソルＭｋⅡ"
+    ],
+    "zh": "性能均衡、容易使用的$n类型。虽然没有特殊能$n力，但能适应各种配$n置，是全能型机体。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30a804",
+    "source_offset": 3188740,
+    "jp_offset": 3188740,
+    "reference_slots": [
+      4069796,
+      4069836,
+      4069856
+    ],
+    "parts": [
+      "Ｘ−レイ",
+      "フォトン",
+      "ナイト"
+    ],
+    "zh": "性能均衡、容易使用的$n类型。虽然没有特殊能$n力，但能适应各种配$n置，是全能型机体。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30bfb8",
+    "source_offset": 3194808,
+    "jp_offset": 3194808,
+    "reference_slots": [
+      4070536
+    ],
+    "parts": [
+      "ベーシックガン"
+    ],
+    "zh": "α弹向正前方发射3发$n子弹，β弹则让3发子$n弹散开飞行。β弹散射$n范围较广，容易打中正$n在逃跑的对手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30bef4",
+    "source_offset": 3194612,
+    "jp_offset": 3194612,
+    "reference_slots": [
+      4070556
+    ],
+    "parts": [
+      "ガトリングキャノン"
+    ],
+    "zh": "α弹连续直射6发子$n弹。β弹威力较低，但$n会发射6发穿墙弹。对$n手躲在墙后时，适合用$nβ弹攻击。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b9a0",
+    "source_offset": 3193248,
+    "jp_offset": 3193248,
+    "reference_slots": [
+      4070696
+    ],
+    "parts": [
+      "ワイドバルカン"
+    ],
+    "zh": "α弹分成两列大幅散开$n并追踪对手。β弹不追$n踪，但分成三列。α弹$n不会正面直射，适合拉$n开距离或躲在墙后使$n用。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30ccbc",
+    "source_offset": 3198140,
+    "jp_offset": 3198140,
+    "reference_slots": [
+      4071272,
+      4071288,
+      4071304,
+      4071320
+    ],
+    "parts": [
+      "スタンダードボム#P",
+      "スタンダードボム#R",
+      "スタンダードボム#U",
+      "スタンダードボム#D"
+    ],
+    "zh": "向发射方向直线飞行。$n能穿墙，适合攻击墙后$n的对手。爆风大，容易$n命中，也能用于追击。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30d984",
+    "source_offset": 3201412,
+    "jp_offset": 3201412,
+    "reference_slots": [
+      4071976
+    ],
+    "parts": [
+      "スタンダードポッド#P"
+    ],
+    "zh": "向发射方向直线飞行。$n向左右两侧发射，可夹$n击对手。飞行距离较$n短，适合近至中距离配$n置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30e8c4",
+    "source_offset": 3205316,
+    "jp_offset": 3205316,
+    "reference_slots": [
+      4072720
+    ],
+    "parts": [
+      "ショルダータックル"
+    ],
+    "zh": "向侧面直线冲撞。破绽大，但攻击力高，$n且处于无敌状态，近战很强。注意对手朝$n向，不能穿墙。攻击范围宽，容易命中。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-chip-description"
+  },
+  {
+    "id": "rom-30ba50",
+    "source_offset": 3193424,
+    "jp_offset": 3193424,
+    "zh": "远距",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30bb10",
+    "source_offset": 3193616,
+    "jp_offset": 3193616,
+    "zh": "近～中",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30be04",
+    "source_offset": 3194372,
+    "jp_offset": 3194372,
+    "zh": "近距",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30bed4",
+    "source_offset": 3194580,
+    "jp_offset": 3194580,
+    "zh": "中～远",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30c04c",
+    "source_offset": 3194956,
+    "jp_offset": 3194956,
+    "zh": "中距",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30e0ec",
+    "source_offset": 3203308,
+    "jp_offset": 3203308,
+    "zh": "追踪型",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30e234",
+    "source_offset": 3203636,
+    "jp_offset": 3203636,
+    "zh": "卫星型",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30e2c8",
+    "source_offset": 3203784,
+    "jp_offset": 3203784,
+    "zh": "设置型",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30cbf0",
+    "source_offset": 3197936,
+    "jp_offset": 3197936,
+    "zh": "短暂定身",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30cc28",
+    "source_offset": 3197992,
+    "jp_offset": 3197992,
+    "zh": "向下击飞",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30cc58",
+    "source_offset": 3198040,
+    "jp_offset": 3198040,
+    "zh": "向上击飞",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30cc88",
+    "source_offset": 3198088,
+    "jp_offset": 3198088,
+    "zh": "拉回近处",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-30cd44",
+    "source_offset": 3198276,
+    "jp_offset": 3198276,
+    "zh": "推向远处",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value"
+  },
+  {
+    "id": "rom-3109b4",
+    "source_offset": 3213748,
+    "jp_offset": 3206356,
+    "zh": "爆风：",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-stat-value",
+    "reference_slots": [
+      34540,
+      34664
+    ]
+  },
+  {
+    "id": "rom-3f2557",
+    "source_offset": 4138327,
+    "jp_offset": 3186140,
+    "reference_slots": [
+      4070416
+    ],
+    "parts": [
+      "#Gガラポン"
+    ],
+    "zh": "新作收集废品亲手制作$n的机体。攻击、防御和$n冲刺性能都很低，老实$n说，可能很弱！？",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-309c84",
+    "source_offset": 3185796,
+    "jp_offset": 3185796,
+    "reference_slots": [
+      4070476,
+      4070496,
+      4071928,
+      4071944
+    ],
+    "parts": [
+      "#Aダークキメラ",
+      "#Aライジングキメラ",
+      "#Aダークボム",
+      "#Aライジングボム"
+    ],
+    "zh": "未知。",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-body-description"
+  },
+  {
+    "id": "rom-30be1c",
+    "source_offset": 3194396,
+    "jp_offset": 3194396,
+    "reference_slots": [
+      4070576
+    ],
+    "parts": [
+      "ソニックライフル"
+    ],
+    "zh": "α弹快速直射1发子$n弹。β弹直射2发高威$n力子弹，但不易命中。$n先用炸弹或辅助舱阻止$n对手移动，再用β弹攻$n击。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30bd50",
+    "source_offset": 3194192,
+    "jp_offset": 3194192,
+    "reference_slots": [
+      4070596
+    ],
+    "parts": [
+      "ショットガン"
+    ],
+    "zh": "α弹并排发射3发短射$n程高威力子弹。β弹发$n射1发穿墙弹，威力略$n低。容易击倒对手，适$n合制造过载。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30bc8c",
+    "source_offset": 3193996,
+    "jp_offset": 3193996,
+    "reference_slots": [
+      4070616
+    ],
+    "parts": [
+      "レイフォールガン"
+    ],
+    "zh": "α弹发射3发子弹，停$n顿一次后追踪对手。β$n弹发射3发不停顿的子$n弹。α弹停顿前可以穿$n墙，适合躲在墙后使$n用。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30bbd8",
+    "source_offset": 3193816,
+    "jp_offset": 3193816,
+    "reference_slots": [
+      4070636
+    ],
+    "parts": [
+      "ホーネットバスター"
+    ],
+    "zh": "α弹散射3发子弹。β$n弹直射2发穿墙弹。追$n踪能力强，适合稍微拉$n开距离后，广泛散布子$n弹。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30bb30",
+    "source_offset": 3193648,
+    "jp_offset": 3193648,
+    "reference_slots": [
+      4070656
+    ],
+    "parts": [
+      "ニンジャバレット"
+    ],
+    "zh": "α弹向斜前方发射2发$n折线转弯的子弹。β弹$n朝相反方向发射。子弹$n斜向飞行，适合躲在墙$n后使用。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30ba68",
+    "source_offset": 3193448,
+    "jp_offset": 3193448,
+    "reference_slots": [
+      4070676
+    ],
+    "parts": [
+      "バブルスマッシャー"
+    ],
+    "zh": "α弹缓慢追踪远处对$n手。β弹发射2发追踪$n弹，射程较短。碰墙不$n会消失，适合躲在墙后$n散布子弹。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b8e0",
+    "source_offset": 3193056,
+    "jp_offset": 3193056,
+    "reference_slots": [
+      4070716
+    ],
+    "parts": [
+      "エナジーダガー"
+    ],
+    "zh": "α弹直射2发可连发子$n弹。β弹发射1发远射$n程可连发子弹。威力$n低，但能阻止中弹对手$n行动，便于其他武器追$n击。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b818",
+    "source_offset": 3192856,
+    "jp_offset": 3192856,
+    "reference_slots": [
+      4070736
+    ],
+    "parts": [
+      "グライダーウィング"
+    ],
+    "zh": "α弹呈V形远射2发。β$n弹发射2发穿墙弹，命$n中可击飞对手。α弹追$n踪强、碰墙不消失，适$n合远距离散射。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b750",
+    "source_offset": 3192656,
+    "jp_offset": 3192656,
+    "reference_slots": [
+      4070756
+    ],
+    "parts": [
+      "イーグルカッター"
+    ],
+    "zh": "α弹先停顿一次，再向$n正前方飞行。β弹直射$n穿墙弹。先发射α弹，$n再用β弹阻止对手移$n动，让子弹接连命中。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b6b8",
+    "source_offset": 3192504,
+    "jp_offset": 3192504,
+    "reference_slots": [
+      4070776
+    ],
+    "parts": [
+      "スターレイヤー"
+    ],
+    "zh": "α弹发射1发子弹，停$n顿后分成3发。β弹穿$n墙飞行，到远处再分成$n3发。适合广泛散布子$n弹。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b5fc",
+    "source_offset": 3192316,
+    "jp_offset": 3192316,
+    "reference_slots": [
+      4070796
+    ],
+    "parts": [
+      "トラクションリング"
+    ],
+    "zh": "α弹发射5发子弹，命$n中可拉近对手。β弹发$n射1发远射程子弹，碰$n墙不会消失。拉近对手$n后用其他攻击追击。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b554",
+    "source_offset": 3192148,
+    "jp_offset": 3192148,
+    "reference_slots": [
+      4070816
+    ],
+    "parts": [
+      "パルスナックル"
+    ],
+    "zh": "α弹发射1发短射程高$n威力子弹。β弹发射穿$n墙弹。威力高但射程$n短，先用炸弹等阻止对$n手移动，再开枪。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b4a8",
+    "source_offset": 3191976,
+    "jp_offset": 3191976,
+    "reference_slots": [
+      4070836
+    ],
+    "parts": [
+      "メテオフリッカー"
+    ],
+    "zh": "α弹发射6发子弹，先$n向后散开，再快速向前$n飞行。β弹分两列发射$n3发高速子弹。适合在$n墙少、弹道通畅处使$n用。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b3f8",
+    "source_offset": 3191800,
+    "jp_offset": 3191800,
+    "reference_slots": [
+      4070856
+    ],
+    "parts": [
+      "マルチプルミサイル"
+    ],
+    "zh": "α弹途中分成5发。β$n弹在近处散开，发射4$n发。两者都沿墙飞行。$n适合远距离使用，让子$n弹散开以提高命中率。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b344",
+    "source_offset": 3191620,
+    "jp_offset": 3191620,
+    "reference_slots": [
+      4070876
+    ],
+    "parts": [
+      "５ウェイレーザー"
+    ],
+    "zh": "α弹斜向散射5发子$n弹，β弹向相反方向发$n射5发。预判对手移动$n方向，灵活选用α弹和$nβ弹。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b28c",
+    "source_offset": 3191436,
+    "jp_offset": 3191436,
+    "reference_slots": [
+      4070896
+    ],
+    "parts": [
+      "プラズマボール"
+    ],
+    "zh": "α弹先高速飞行，再缓$n慢飞向对手。β弹的运$n动方式相反。交替使用$nα弹和β弹，可以扰乱$n对手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b1f0",
+    "source_offset": 3191280,
+    "jp_offset": 3191280,
+    "reference_slots": [
+      4070916
+    ],
+    "parts": [
+      "リフレクトレーザー"
+    ],
+    "zh": "α弹呈V形高速飞行，$nβ弹向正前方发射2$n发。子弹沿墙飞行，适$n合在墙多的地方大量散$n射。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b134",
+    "source_offset": 3191092,
+    "jp_offset": 3191092,
+    "reference_slots": [
+      4070936
+    ],
+    "parts": [
+      "スプレッドシェル"
+    ],
+    "zh": "α弹发射1发子弹，途$n中分成十字形。β弹在$n近处分成十字形。分裂$n前沿墙飞行，适合躲在$n墙后使用。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30b088",
+    "source_offset": 3190920,
+    "jp_offset": 3190920,
+    "reference_slots": [
+      4070956
+    ],
+    "parts": [
+      "クロスシザース"
+    ],
+    "zh": "α弹发射6发高速子$n弹，分成剪刀形。β弹$n直射5发。α弹转弯前$n能穿墙，适合从墙后发$n射。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30afec",
+    "source_offset": 3190764,
+    "jp_offset": 3190764,
+    "reference_slots": [
+      4070976
+    ],
+    "parts": [
+      "ファングブロー"
+    ],
+    "zh": "α弹呈V形，每侧发射3$n发高速子弹。β弹直射$n3发高速子弹。α弹射$n程长、容易命中，适合$n远距离使用。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30af2c",
+    "source_offset": 3190572,
+    "jp_offset": 3190572,
+    "reference_slots": [
+      4070996
+    ],
+    "parts": [
+      "バーニングショット"
+    ],
+    "zh": "α弹向正前方发射6发$n慢速子弹。β弹发射6$n发穿墙弹。命中可将对$n手击飞很远。α弹沿墙$n飞行，应与β弹配合使$n用。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-3f25dc",
+    "source_offset": 4138460,
+    "jp_offset": 3190448,
+    "reference_slots": [
+      4071016
+    ],
+    "parts": [
+      "#Iブリザードレイン"
+    ],
+    "zh": "违禁改造的广域火神$n枪。α弹弹数增至6$n发，β弹的射程延长。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30adf8",
+    "source_offset": 3190264,
+    "jp_offset": 3190264,
+    "reference_slots": [
+      4071036
+    ],
+    "parts": [
+      "#Iダークネスブロー"
+    ],
+    "zh": "违禁改造的獠牙冲击$n枪。α弹的散射宽度缩$n小，更易在中距离命$n中。β弹射程延长，还$n能穿墙。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30ad54",
+    "source_offset": 3190100,
+    "jp_offset": 3190100,
+    "reference_slots": [
+      4071056
+    ],
+    "parts": [
+      "#Iバイキングアックス"
+    ],
+    "zh": "违禁改造的牵引环。α$n弹射程延长，牵引力增$n强。β弹的追踪能力增$n强。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30aca0",
+    "source_offset": 3189920,
+    "jp_offset": 3189920,
+    "reference_slots": [
+      4071076
+    ],
+    "parts": [
+      "#Iリュウジンガン"
+    ],
+    "zh": "违禁改造的反射激光$n枪。α弹追踪增强，飞$n行时间更长。β弹的追$n踪能力也增强了。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30ac14",
+    "source_offset": 3189780,
+    "jp_offset": 3189780,
+    "reference_slots": [
+      4071096
+    ],
+    "parts": [
+      "#Iカミーラガン"
+    ],
+    "zh": "违禁改造的等离子球。$nα弹和β弹的弹数均增$n至2发，以夹击对手的$n方式发射。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30ab88",
+    "source_offset": 3189640,
+    "jp_offset": 3189640,
+    "reference_slots": [
+      4071116
+    ],
+    "parts": [
+      "#Iガイオウガン"
+    ],
+    "zh": "违禁改造的霰弹枪。α$n弹弹数增至4发，射程$n延长。β弹弹数增至2$n发。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30aaf4",
+    "source_offset": 3189492,
+    "jp_offset": 3189492,
+    "reference_slots": [
+      4071136
+    ],
+    "parts": [
+      "#Iヤナイガン"
+    ],
+    "zh": "违禁改造的忍者子弹$n枪。α弹和β弹的弹数$n均增至4发，更易命中$n试图躲避的对手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30aa40",
+    "source_offset": 3189312,
+    "jp_offset": 3189312,
+    "reference_slots": [
+      4071156
+    ],
+    "parts": [
+      "#Iニカイドウガン"
+    ],
+    "zh": "违禁改造的流星闪烁$n枪。α弹改为向前飞$n行，首次停顿前能穿$n墙。β弹对敌伤害提$n高。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30a9c4",
+    "source_offset": 3189188,
+    "jp_offset": 3189188,
+    "reference_slots": [
+      4071176
+    ],
+    "parts": [
+      "#Gガラポンガン"
+    ],
+    "zh": "新作收集废品亲手制作$n的枪。攻击力低，射程$n短，老实说，可能很$n弱！？",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30a8fc",
+    "source_offset": 3188988,
+    "jp_offset": 3188988,
+    "reference_slots": [
+      4071196
+    ],
+    "parts": [
+      "#AＡＲＳ−Ｇ０２"
+    ],
+    "zh": "军用新型枪。α弹快速$n直射，β弹先停顿，再$n飞向对手。移动中发射$nβ弹，可以用子弹包围$n对手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30a8dc",
+    "source_offset": 3188956,
+    "jp_offset": 3188956,
+    "reference_slots": [
+      4071216,
+      4071236
+    ],
+    "parts": [
+      "#Aダークプラズマ",
+      "#Aライジングプラズマ"
+    ],
+    "zh": "未知。",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gun-description"
+  },
+  {
+    "id": "rom-30cb8c",
+    "source_offset": 3197836,
+    "jp_offset": 3197836,
+    "reference_slots": [
+      4071336
+    ],
+    "parts": [
+      "スタンダードボム#S"
+    ],
+    "zh": "向发射方向直线飞行。$n能穿墙，适合攻击墙后$n的对手。爆风较小。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30cadc",
+    "source_offset": 3197660,
+    "jp_offset": 3197660,
+    "reference_slots": [
+      4071352,
+      4071368,
+      4071384
+    ],
+    "parts": [
+      "ピラーボム#R",
+      "ピラーボム#U",
+      "ピラーボム#D"
+    ],
+    "zh": "向发射方向直线飞行。$n爆风上下延伸，可封$n路。在对手后方引爆，$n攻击后退的对手，或用$n其他武器追击。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30ca08",
+    "source_offset": 3197448,
+    "jp_offset": 3197448,
+    "reference_slots": [
+      4071400,
+      4071416,
+      4071432
+    ],
+    "parts": [
+      "ウォールボム#P",
+      "ウォールボム#U",
+      "ウォールボム#D"
+    ],
+    "zh": "快速直射，在自己面前$n爆炸，适合对付近距离$n配置的对手。自身射程$n短，适合搭配中至远距$n离配置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c950",
+    "source_offset": 3197264,
+    "jp_offset": 3197264,
+    "reference_slots": [
+      4071448,
+      4071464,
+      4071480
+    ],
+    "parts": [
+      "サブマリンボム#U",
+      "サブマリンボム#D",
+      "サブマリンボム#S"
+    ],
+    "zh": "慢速直射，沿墙飞行，$n可用来封路。能发射2$n发子弹，适合夹击对$n手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c88c",
+    "source_offset": 3197068,
+    "jp_offset": 3197068,
+    "reference_slots": [
+      4071496,
+      4071512,
+      4071528
+    ],
+    "parts": [
+      "アイドリングボム#P",
+      "アイドリングボム#U",
+      "アイドリングボム#D"
+    ],
+    "zh": "向发射方向呈V形飞$n行，稍后爆炸，可用来$n封路。不会正面直射，$n适合搭配直射武器。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c7c4",
+    "source_offset": 3196868,
+    "jp_offset": 3196868,
+    "reference_slots": [
+      4071544,
+      4071560
+    ],
+    "parts": [
+      "ジェミニボム#U",
+      "ジェミニボム#D"
+    ],
+    "zh": "向发射方向呈V形飞$n行。弹速快，一次发射$n2发，可阻止对手移$n动。适合对付行动迅速$n的对手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c728",
+    "source_offset": 3196712,
+    "jp_offset": 3196712,
+    "reference_slots": [
+      4071576,
+      4071592,
+      4071608,
+      4071624,
+      4071640
+    ],
+    "parts": [
+      "リザードボム#P",
+      "リザードボム#R",
+      "リザードボム#U",
+      "リザードボム#D",
+      "リザードボム#S"
+    ],
+    "zh": "向发射方向直线飞行，$n沿墙前进，可用来封$n路。适合墙壁较多的场$n地。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c634",
+    "source_offset": 3196468,
+    "jp_offset": 3196468,
+    "reference_slots": [
+      4071656
+    ],
+    "parts": [
+      "ストライクボム"
+    ],
+    "zh": "快速直射，在近处爆$n炸，适合对付近距离配$n置的对手。能发射2发$n子弹，可预先散布爆$n风。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c580",
+    "source_offset": 3196288,
+    "jp_offset": 3196288,
+    "reference_slots": [
+      4071672,
+      4071688,
+      4071704
+    ],
+    "parts": [
+      "バウンドボム#P",
+      "バウンドボム#U",
+      "バウンドボム#D"
+    ],
+    "zh": "直射穿墙弹，可将墙后$n的对手逼出来。能迅速$n击飞对手，适合搭配中$n至远距离配置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c4c0",
+    "source_offset": 3196096,
+    "jp_offset": 3196096,
+    "reference_slots": [
+      4071720,
+      4071736,
+      4071752
+    ],
+    "parts": [
+      "ツインスネークボム#P",
+      "ツインスネークボム#U",
+      "ツインスネークボム#D"
+    ],
+    "zh": "向发射方向呈V形飞$n行，一次发射2发沿墙$n飞行的子弹，可夹击对$n手。适合墙壁较多的场$n地。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-3f2646",
+    "source_offset": 4138566,
+    "jp_offset": 3195900,
+    "reference_slots": [
+      4071768
+    ],
+    "parts": [
+      "ジオトラップボム"
+    ],
+    "zh": "向发射方向直线飞行。$n爆风持续时间长，可用$n来封路。攻击力高、爆$n风大，也适合追击。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c3a0",
+    "source_offset": 3195808,
+    "jp_offset": 3195808,
+    "reference_slots": [
+      4071784
+    ],
+    "parts": [
+      "#Iウォールボム"
+    ],
+    "zh": "违禁改造的墙壁炸弹$n#P。射程延长，攻击力$n提高。",
+    "controls": [
+      "$n",
+      "#P",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c34c",
+    "source_offset": 3195724,
+    "jp_offset": 3195724,
+    "reference_slots": [
+      4071800
+    ],
+    "parts": [
+      "#Iジオトラップボム"
+    ],
+    "zh": "违禁改造的地形陷阱炸$n弹。攻击力提高。",
+    "controls": [
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c2f8",
+    "source_offset": 3195640,
+    "jp_offset": 3195640,
+    "reference_slots": [
+      4071816
+    ],
+    "parts": [
+      "#Iリュウジンボム"
+    ],
+    "zh": "违禁改造的双蛇炸弹$n#U。弹速提高。",
+    "controls": [
+      "$n",
+      "#U"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c298",
+    "source_offset": 3195544,
+    "jp_offset": 3195544,
+    "reference_slots": [
+      4071832
+    ],
+    "parts": [
+      "#Iカミーラボム"
+    ],
+    "zh": "违禁改造的标准炸弹$n#S。弹速和伤害提高。",
+    "controls": [
+      "$n",
+      "#S"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c250",
+    "source_offset": 3195472,
+    "jp_offset": 3195472,
+    "reference_slots": [
+      4071848
+    ],
+    "parts": [
+      "#Iガイオウボム"
+    ],
+    "zh": "违禁改造的柱状炸弹$n#R。弹速提高。",
+    "controls": [
+      "$n",
+      "#R"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c1f8",
+    "source_offset": 3195384,
+    "jp_offset": 3195384,
+    "reference_slots": [
+      4071864
+    ],
+    "parts": [
+      "#Iヤナイボム"
+    ],
+    "zh": "违禁改造的弹跳炸弹$n#U。击飞对手的力度增$n强。",
+    "controls": [
+      "$n",
+      "#U",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c3fc",
+    "source_offset": 3195900,
+    "jp_offset": 3195260,
+    "reference_slots": [
+      4071880
+    ],
+    "parts": [
+      "#Iニカイドウボム"
+    ],
+    "zh": "违禁改造的潜伏炸弹。$n爆风改为#S型，对手稍$n远时也会爆炸。",
+    "controls": [
+      "$n",
+      "#S",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c0fc",
+    "source_offset": 3195132,
+    "jp_offset": 3195132,
+    "reference_slots": [
+      4071896
+    ],
+    "parts": [
+      "#Gガラポンボム"
+    ],
+    "zh": "新作收集废品亲手制作$n的炸弹。爆风小、伤害$n低，老实说，可能很$n弱！？",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30c088",
+    "source_offset": 3195016,
+    "jp_offset": 3195016,
+    "reference_slots": [
+      4071912
+    ],
+    "parts": [
+      "#Aスーパーノヴァ"
+    ],
+    "zh": "军用改造的标准炸弹$n#P。弹速快，爆炸持续$n时间短，连射性能提$n高。",
+    "controls": [
+      "$n",
+      "#P",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-bomb-description"
+  },
+  {
+    "id": "rom-30d8e8",
+    "source_offset": 3201256,
+    "jp_offset": 3201256,
+    "reference_slots": [
+      4071992
+    ],
+    "parts": [
+      "スタンダードポッド#R"
+    ],
+    "zh": "向发射方向直线飞行。$n向左右两侧发射，可夹$n击对手。R型爆风适合$n搭配近距离配置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d83c",
+    "source_offset": 3201084,
+    "jp_offset": 3201084,
+    "reference_slots": [
+      4072008
+    ],
+    "parts": [
+      "シーカーポッド#P"
+    ],
+    "zh": "缓慢接近对手。向不同$n方向发射，可围堵对$n手。能长时间追踪，爆$n炸后应立即补发。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d790",
+    "source_offset": 3200912,
+    "jp_offset": 3200912,
+    "reference_slots": [
+      4072024
+    ],
+    "parts": [
+      "シーカーポッド#R"
+    ],
+    "zh": "缓慢接近对手。向不同$n方向发射，可围堵对$n手。R型爆风适合搭配$n近至中距离配置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d6f4",
+    "source_offset": 3200756,
+    "jp_offset": 3200756,
+    "reference_slots": [
+      4072040
+    ],
+    "parts": [
+      "スピードポッド#P"
+    ],
+    "zh": "向发射方向快速直线飞$n行，在对手面前爆炸，$n适合拦截接近的对手。$n弹速快，也能应对灵活$n的对手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d650",
+    "source_offset": 3200592,
+    "jp_offset": 3200592,
+    "reference_slots": [
+      4072056
+    ],
+    "parts": [
+      "スピードポッド#R"
+    ],
+    "zh": "向发射方向快速直线飞$n行，在对手面前爆炸，$n适合拦截接近的对手。$nR型爆风适合近至中距$n离配置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d5c8",
+    "source_offset": 3200456,
+    "jp_offset": 3200456,
+    "reference_slots": [
+      4072072,
+      4072088
+    ],
+    "parts": [
+      "ヤジュウポッド#P",
+      "ヤジュウポッド#R"
+    ],
+    "zh": "发射后停在原地，对手$n靠近时飞过去爆炸。放$n在对手可能经过的位$n置，可用来封路。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d53c",
+    "source_offset": 3200316,
+    "jp_offset": 3200316,
+    "reference_slots": [
+      4072104
+    ],
+    "parts": [
+      "リフレクトポッド#P"
+    ],
+    "zh": "向发射方向飞出2发，$n碰墙反弹，适合墙多的$n场地。想与对手拉开距$n离时使用。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d4b8",
+    "source_offset": 3200184,
+    "jp_offset": 3200184,
+    "reference_slots": [
+      4072120
+    ],
+    "parts": [
+      "リフレクトポッド#R"
+    ],
+    "zh": "向发射方向飞出2发，$n碰墙反弹，适合墙多的$n场地。不会追踪对手，$n适合用来封路。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d420",
+    "source_offset": 3200032,
+    "jp_offset": 3200032,
+    "reference_slots": [
+      4072136,
+      4072152
+    ],
+    "parts": [
+      "フェイントポッド#U",
+      "フェイントポッド#D"
+    ],
+    "zh": "发射后迅速接近对手面$n前，对手后退时会追过$n去。不会直接命中，适$n合拦截想要靠近的对$n手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d384",
+    "source_offset": 3199876,
+    "jp_offset": 3199876,
+    "reference_slots": [
+      4072168
+    ],
+    "parts": [
+      "ドルフィンポッド#P"
+    ],
+    "zh": "发射后短时间内穿墙前$n进，可攻击墙后的对$n手。适合搭配近至中距$n离配置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d2e4",
+    "source_offset": 3199716,
+    "jp_offset": 3199716,
+    "reference_slots": [
+      4072184
+    ],
+    "parts": [
+      "ドルフィンポッド#R"
+    ],
+    "zh": "发射后短时间内穿墙前$n进。可从墙后攻击，或$n拉近对手接连招。适合$n近至中距离配置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d230",
+    "source_offset": 3199536,
+    "jp_offset": 3199536,
+    "reference_slots": [
+      4072200,
+      4072216
+    ],
+    "parts": [
+      "スローイングポッド#U",
+      "スローイングポッド#D"
+    ],
+    "zh": "向发射方向穿墙前进，$n随后停止。可夹击躲在$n墙后的对手，也能从墙$n后直接发动攻击。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d160",
+    "source_offset": 3199328,
+    "jp_offset": 3199328,
+    "reference_slots": [
+      4072232,
+      4072248
+    ],
+    "parts": [
+      "サイドウェイポッド#P",
+      "サイドウェイポッド#R"
+    ],
+    "zh": "同时发射2发子弹，散$n开夹击对手，容易将对$n手逼入困境。射程较$n短，适合近距离配置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30d0b4",
+    "source_offset": 3199156,
+    "jp_offset": 3199156,
+    "reference_slots": [
+      4072264,
+      4072280,
+      4072296
+    ],
+    "parts": [
+      "サテライトポッド#P",
+      "サテライトポッド#U",
+      "サテライトポッド#D"
+    ],
+    "zh": "发射后，2个辅助舱绕$n着自己旋转，可拦截试$n图靠近的对手。适合搭$n配中至远距离配置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30cfe4",
+    "source_offset": 3198948,
+    "jp_offset": 3198948,
+    "reference_slots": [
+      4072312
+    ],
+    "parts": [
+      "スマッシュポッド#P"
+    ],
+    "zh": "正面并排发射2发子$n弹，发射后立即爆炸，$n适合对付靠近的对手。$n适合搭配中至远距离配$n置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30cf8c",
+    "source_offset": 3198860,
+    "jp_offset": 3198860,
+    "reference_slots": [
+      4072328
+    ],
+    "parts": [
+      "#Iリュウジンポッド"
+    ],
+    "zh": "违禁改造的反射辅助舱$n#P。伤害提高。",
+    "controls": [
+      "$n",
+      "#P"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30cf1c",
+    "source_offset": 3198748,
+    "jp_offset": 3198748,
+    "reference_slots": [
+      4072344
+    ],
+    "parts": [
+      "#Iカミーラポッド"
+    ],
+    "zh": "违禁改造的投掷辅助$n舱。射程更长，还会追$n踪靠近的对手。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30ceb4",
+    "source_offset": 3198644,
+    "jp_offset": 3198644,
+    "reference_slots": [
+      4072360
+    ],
+    "parts": [
+      "#Iガイオウポッド"
+    ],
+    "zh": "违禁改造的侧向辅助舱$n#R。弹速提高，射程延$n长。",
+    "controls": [
+      "$n",
+      "#R",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30ce5c",
+    "source_offset": 3198556,
+    "jp_offset": 3198556,
+    "reference_slots": [
+      4072376
+    ],
+    "parts": [
+      "#Iヤナイポッド"
+    ],
+    "zh": "违禁改造的野兽辅助$n舱。会追踪远处的对$n手。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-3f26da",
+    "source_offset": 4138714,
+    "jp_offset": 3198452,
+    "reference_slots": [
+      4072392
+    ],
+    "parts": [
+      "#Iニカイドウポッド"
+    ],
+    "zh": "违禁改造的高速辅助$n舱。爆风改为#S型，并$n能直接命中对手。",
+    "controls": [
+      "$n",
+      "#S",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30cd74",
+    "source_offset": 3198324,
+    "jp_offset": 3198324,
+    "reference_slots": [
+      4072408
+    ],
+    "parts": [
+      "#Gガラポンポッド"
+    ],
+    "zh": "新作收集废品亲手制作$n的辅助舱。不能直接命$n中对手，老实说，可能$n很弱！？",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-pod-description"
+  },
+  {
+    "id": "rom-30e250",
+    "source_offset": 3203664,
+    "jp_offset": 3203664,
+    "reference_slots": [
+      4072440
+    ],
+    "parts": [
+      "トラップガンナー"
+    ],
+    "zh": "发射后停在原地攻击。$n放在对手前进路线上，$n再用枪或炸弹夹击。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30e198",
+    "source_offset": 3203480,
+    "jp_offset": 3203480,
+    "reference_slots": [
+      4072456
+    ],
+    "parts": [
+      "サテライトガンナー"
+    ],
+    "zh": "可向任意方向发射2$n个。发射后固定在自己$n周围，随自己移动，并$n朝设置方向攻击。弹射$n程长，可阻止对手靠$n近。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30e108",
+    "source_offset": 3203336,
+    "jp_offset": 3203336,
+    "reference_slots": [
+      4072472
+    ],
+    "parts": [
+      "ラウンドガンナー"
+    ],
+    "zh": "可同时向自己周围发射$n2个。发射后固定在周$n围，随自己移动，适合$n阻止对手靠近。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30e07c",
+    "source_offset": 3203196,
+    "jp_offset": 3203196,
+    "reference_slots": [
+      4072488
+    ],
+    "parts": [
+      "フェイントガンナー"
+    ],
+    "zh": "发射后，距离较远时会$n靠近对手。它会接近并$n逼迫对手，可趁机用枪$n或炸弹攻击。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30dfd4",
+    "source_offset": 3203028,
+    "jp_offset": 3203028,
+    "reference_slots": [
+      4072504
+    ],
+    "parts": [
+      "スローイングガンナー"
+    ],
+    "zh": "可向任意方向发射，短$n时间内能穿墙。移动一$n段距离后停下攻击。放$n在能封堵对手退路的位$n置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30df38",
+    "source_offset": 3202872,
+    "jp_offset": 3202872,
+    "reference_slots": [
+      4072520
+    ],
+    "parts": [
+      "シーカーガンナー"
+    ],
+    "zh": "发射后，一边缓慢接近$n对手一边攻击。持续发$n射来逼迫对手，注意不$n要让它被墙挡住。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30de94",
+    "source_offset": 3202708,
+    "jp_offset": 3202708,
+    "reference_slots": [
+      4072536
+    ],
+    "parts": [
+      "クロスガンナー"
+    ],
+    "zh": "发射后停在原地，朝设$n置方向发射十字形子$n弹。射程长，适合放在$n墙少、弹道通畅的位$n置。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30ddf4",
+    "source_offset": 3202548,
+    "jp_offset": 3202548,
+    "reference_slots": [
+      4072552
+    ],
+    "parts": [
+      "スマッシュガンナー"
+    ],
+    "zh": "可向任意方向发射。发$n射后固定在自己周围，$n随自己移动。射程短，$n但能同时发射2个，可$n阻止对手靠近。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30dd64",
+    "source_offset": 3202404,
+    "jp_offset": 3202404,
+    "reference_slots": [
+      4072568
+    ],
+    "parts": [
+      "ツインガンナー"
+    ],
+    "zh": "发射后停在原地，发射$nV形子弹。放在对手前$n进路线上，再用枪或炸$n弹夹击。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30dcb4",
+    "source_offset": 3202228,
+    "jp_offset": 3202228,
+    "reference_slots": [
+      4072584
+    ],
+    "parts": [
+      "４ウェイガンナー"
+    ],
+    "zh": "发射后停在原地，朝设$n置方向散射4发子弹。$n适合放在墙少、弹道通$n畅的位置，封堵对手退$n路。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-318cb8",
+    "source_offset": 3247288,
+    "jp_offset": 3202132,
+    "reference_slots": [
+      4072600
+    ],
+    "parts": [
+      "#Iシーカーガンナー"
+    ],
+    "zh": "违禁改造的追踪枪手装$n置。改为发射V形子$n弹。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30dbe8",
+    "source_offset": 3202024,
+    "jp_offset": 3202024,
+    "reference_slots": [
+      4072616
+    ],
+    "parts": [
+      "#I４ウェイガンナー"
+    ],
+    "zh": "违禁改造的四向枪手装$n置。改为朝对手发动攻$n击。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30db78",
+    "source_offset": 3201912,
+    "jp_offset": 3201912,
+    "reference_slots": [
+      4072632
+    ],
+    "parts": [
+      "#Iクロスガンナー"
+    ],
+    "zh": "违禁改造的十字枪手装$n置。可以穿墙发射到更$n远处。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30dae4",
+    "source_offset": 3201764,
+    "jp_offset": 3201764,
+    "reference_slots": [
+      4072648
+    ],
+    "parts": [
+      "#Iスマッシュガンナー"
+    ],
+    "zh": "违禁改造的猛击枪手装$n置。设置位置更远，子$n弹更容易够到对手。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-3f274b",
+    "source_offset": 4138827,
+    "jp_offset": 3201640,
+    "reference_slots": [
+      4072664
+    ],
+    "parts": [
+      "#AサーキュレーションＷ"
+    ],
+    "zh": "军用改造的环绕枪手装$n置。改为绕着自己旋$n转，子弹射程延长。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30da40",
+    "source_offset": 3201600,
+    "jp_offset": 3201600,
+    "reference_slots": [
+      4072680,
+      4072696
+    ],
+    "parts": [
+      "#Aダークガンナー",
+      "#Aライジングガンナー"
+    ],
+    "zh": "未知。",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-gunner-description"
+  },
+  {
+    "id": "rom-30e7d8",
+    "source_offset": 3205080,
+    "jp_offset": 3205080,
+    "reference_slots": [
+      4072728
+    ],
+    "parts": [
+      "トルネードビート"
+    ],
+    "zh": "向纵向直线冲撞。破绽大，但攻击力高，$n且处于无敌状态，近战很强。注意对手朝$n向，不能穿墙。也容易击中倒地后下落的$n对手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-chip-description"
+  },
+  {
+    "id": "rom-3f27b7",
+    "source_offset": 4138935,
+    "jp_offset": 3204872,
+    "reference_slots": [
+      4072736
+    ],
+    "parts": [
+      "ショートスラッシュ"
+    ],
+    "zh": "朝对手短距离冲撞。破绽大，攻击力略$n低，但能瞄准任意方向的对手。注意射程$n短，而且不能穿墙。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-chip-description"
+  },
+  {
+    "id": "rom-30e63c",
+    "source_offset": 3204668,
+    "jp_offset": 3204668,
+    "reference_slots": [
+      4072744
+    ],
+    "parts": [
+      "ブレイクタックル"
+    ],
+    "zh": "横向直线穿墙冲撞。攻击力低，但冲撞时$n无敌且能穿墙，适合攻击墙后的对手。注$n意对手朝向。攻击范围宽，容易命中。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-chip-description"
+  },
+  {
+    "id": "rom-30e564",
+    "source_offset": 3204452,
+    "jp_offset": 3204452,
+    "reference_slots": [
+      4072752
+    ],
+    "parts": [
+      "ブレイクトルネード"
+    ],
+    "zh": "纵向直线穿墙冲撞。攻击力低，但冲撞时$n无敌且能穿墙，适合攻击墙后的对手。注$n意对手朝向。也容易击中倒地后下落的对$n手。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-chip-description"
+  },
+  {
+    "id": "rom-30e48c",
+    "source_offset": 3204236,
+    "jp_offset": 3204236,
+    "reference_slots": [
+      4072760
+    ],
+    "parts": [
+      "エナジープロテクター"
+    ],
+    "zh": "使用时不受对手任何攻击，但不能移动。$n护盾被打破后，10秒内无法再用。护盾坚$n固，且没有破绽，适合频繁使用。",
+    "controls": [
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-chip-description"
+  },
+  {
+    "id": "rom-30e3a8",
+    "source_offset": 3204008,
+    "jp_offset": 3204008,
+    "reference_slots": [
+      4072768
+    ],
+    "parts": [
+      "ライトプロテクター"
+    ],
+    "zh": "使用时不受对手任何攻击，可边移动边使$n用。护盾被打破后，15秒内无法再用。较$n易破碎，使用后有破绽，适合远离对手移$n动时使用。",
+    "controls": [
+      "$n",
+      "$n",
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-chip-description"
+  },
+  {
+    "id": "rom-30e320",
+    "source_offset": 3203872,
+    "jp_offset": 3203872,
+    "reference_slots": [
+      4072776
+    ],
+    "parts": [
+      "#Aフォースプロテクター"
+    ],
+    "zh": "军用改造的轻型护盾。使用后不再有破$n绽，而且更加坚固，不易被打破。",
+    "controls": [
+      "$n"
+    ],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-chip-description"
+  },
+  {
+    "id": "rom-30e2fc",
+    "source_offset": 3203836,
+    "jp_offset": 3203836,
+    "reference_slots": [
+      4072784,
+      4072792
+    ],
+    "parts": [
+      "#Aダークスライド",
+      "#Aライジングスライド"
+    ],
+    "zh": "未知。",
+    "controls": [],
+    "layout_policy": "reflow-newlines",
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-chip-description"
+  },
+  {
+    "id": "rom-36b3ef",
+    "source_offset": 3585007,
+    "jp_offset": 3205724,
+    "reference_slots": [
+      4072876
+    ],
+    "zh": "                R：说明                 ",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-footer"
+  },
+  {
+    "id": "rom-36b419",
+    "source_offset": 3585049,
+    "jp_offset": 3205688,
+    "reference_slots": [
+      4072880
+    ],
+    "zh": "            ←＋A：随机配置             ",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-footer"
+  },
+  {
+    "id": "rom-36b446",
+    "source_offset": 3585094,
+    "jp_offset": 3205544,
+    "reference_slots": [
+      4072892
+    ],
+    "zh": "       方向：切换 R：说明 B：返回       ",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "equipment-footer"
+  },
+  {
+    "id": "rom-309c68",
+    "source_offset": 3185768,
+    "jp_offset": 3185768,
+    "zh": "入会费",
+    "reference_slots": [
+      4031740
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 13,
+    "name_table_category": 5,
+    "name_table_index": 0
+  },
+  {
+    "id": "rom-309c58",
+    "source_offset": 3185752,
+    "jp_offset": 3185752,
+    "zh": "机器人执照",
+    "reference_slots": [
+      4031744
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 21,
+    "name_table_category": 5,
+    "name_table_index": 1
+  },
+  {
+    "id": "rom-309c4c",
+    "source_offset": 3185740,
+    "jp_offset": 3185740,
+    "zh": "地下会员证",
+    "reference_slots": [
+      4031748
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 48,
+    "name_table_category": 5,
+    "name_table_index": 2
+  },
+  {
+    "id": "rom-309c44",
+    "source_offset": 3185732,
+    "jp_offset": 3185732,
+    "zh": "PMT",
+    "reference_slots": [
+      4031752
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 55,
+    "name_table_category": 5,
+    "name_table_index": 3
+  },
+  {
+    "id": "rom-309c30",
+    "source_offset": 3185712,
+    "jp_offset": 3185712,
+    "zh": "纳米探测器",
+    "reference_slots": [
+      4031756
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 93,
+    "name_table_category": 5,
+    "name_table_index": 4
+  },
+  {
+    "id": "rom-309c24",
+    "source_offset": 3185700,
+    "jp_offset": 3185700,
+    "zh": "水之参赛证",
+    "reference_slots": [
+      4031760
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 102,
+    "name_table_category": 5,
+    "name_table_index": 5
+  },
+  {
+    "id": "rom-309c18",
+    "source_offset": 3185688,
+    "jp_offset": 3185688,
+    "zh": "土之参赛证",
+    "reference_slots": [
+      4031764
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 265,
+    "name_table_category": 5,
+    "name_table_index": 6
+  },
+  {
+    "id": "rom-309c0c",
+    "source_offset": 3185676,
+    "jp_offset": 3185676,
+    "zh": "风之参赛证",
+    "reference_slots": [
+      4031768
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 267,
+    "name_table_category": 5,
+    "name_table_index": 7
+  },
+  {
+    "id": "rom-309c00",
+    "source_offset": 3185664,
+    "jp_offset": 3185664,
+    "zh": "火之参赛证",
+    "reference_slots": [
+      4031772
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 268,
+    "name_table_category": 5,
+    "name_table_index": 8
+  },
+  {
+    "id": "rom-309bec",
+    "source_offset": 3185644,
+    "jp_offset": 3185644,
+    "zh": "研究员钥匙卡",
+    "reference_slots": [
+      4031776
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 341,
+    "name_table_category": 5,
+    "name_table_index": 9
+  },
+  {
+    "id": "rom-309bdc",
+    "source_offset": 3185628,
+    "jp_offset": 3185628,
+    "zh": "火之钥匙卡",
+    "reference_slots": [
+      4031780
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 219,
+    "name_table_category": 5,
+    "name_table_index": 10
+  },
+  {
+    "id": "rom-309bcc",
+    "source_offset": 3185612,
+    "jp_offset": 3185612,
+    "zh": "水之钥匙卡",
+    "reference_slots": [
+      4031784
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 222,
+    "name_table_category": 5,
+    "name_table_index": 11
+  },
+  {
+    "id": "rom-309bbc",
+    "source_offset": 3185596,
+    "jp_offset": 3185596,
+    "zh": "土之钥匙卡",
+    "reference_slots": [
+      4031788
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 227,
+    "name_table_category": 5,
+    "name_table_index": 12
+  },
+  {
+    "id": "rom-309bac",
+    "source_offset": 3185580,
+    "jp_offset": 3185580,
+    "zh": "风之钥匙卡",
+    "reference_slots": [
+      4031792
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "key-item-name",
+    "native_string_id": 230,
+    "name_table_category": 5,
+    "name_table_index": 13
+  },
+  {
+    "id": "rom-309b94",
+    "source_offset": 3185556,
+    "jp_offset": 3185556,
+    "zh": "基础场地A",
+    "reference_slots": [
+      4031644
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28710,
+    "name_table_category": 6,
+    "name_table_index": 0
+  },
+  {
+    "id": "rom-309b7c",
+    "source_offset": 3185532,
+    "jp_offset": 3185532,
+    "zh": "基础场地B",
+    "reference_slots": [
+      4031648
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28711,
+    "name_table_category": 6,
+    "name_table_index": 1
+  },
+  {
+    "id": "rom-309b64",
+    "source_offset": 3185508,
+    "jp_offset": 3185508,
+    "zh": "空中竞技A",
+    "reference_slots": [
+      4031652
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28701,
+    "name_table_category": 6,
+    "name_table_index": 2
+  },
+  {
+    "id": "rom-309b4c",
+    "source_offset": 3185484,
+    "jp_offset": 3185484,
+    "zh": "空中竞技B",
+    "reference_slots": [
+      4031656
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28702,
+    "name_table_category": 6,
+    "name_table_index": 3
+  },
+  {
+    "id": "rom-309b34",
+    "source_offset": 3185460,
+    "jp_offset": 3185460,
+    "zh": "银色山脉A",
+    "reference_slots": [
+      4031660
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28699,
+    "name_table_category": 6,
+    "name_table_index": 4
+  },
+  {
+    "id": "rom-309b1c",
+    "source_offset": 3185436,
+    "jp_offset": 3185436,
+    "zh": "银色山脉B",
+    "reference_slots": [
+      4031664
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28700,
+    "name_table_category": 6,
+    "name_table_index": 5
+  },
+  {
+    "id": "rom-309b08",
+    "source_offset": 3185416,
+    "jp_offset": 3185416,
+    "zh": "缤纷玩具A",
+    "reference_slots": [
+      4031668
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28712,
+    "name_table_category": 6,
+    "name_table_index": 6
+  },
+  {
+    "id": "rom-309af4",
+    "source_offset": 3185396,
+    "jp_offset": 3185396,
+    "zh": "缤纷玩具B",
+    "reference_slots": [
+      4031672
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28713,
+    "name_table_category": 6,
+    "name_table_index": 7
+  },
+  {
+    "id": "rom-309adc",
+    "source_offset": 3185372,
+    "jp_offset": 3185372,
+    "zh": "未来体育场",
+    "reference_slots": [
+      4031676
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28706,
+    "name_table_category": 6,
+    "name_table_index": 8
+  },
+  {
+    "id": "rom-309ac4",
+    "source_offset": 3185348,
+    "jp_offset": 3185348,
+    "zh": "未来场地",
+    "reference_slots": [
+      4031680
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28707,
+    "name_table_category": 6,
+    "name_table_index": 9
+  },
+  {
+    "id": "rom-309aac",
+    "source_offset": 3185324,
+    "jp_offset": 3185324,
+    "zh": "未知空间A",
+    "reference_slots": [
+      4031684
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28693,
+    "name_table_category": 6,
+    "name_table_index": 10
+  },
+  {
+    "id": "rom-309a94",
+    "source_offset": 3185300,
+    "jp_offset": 3185300,
+    "zh": "未知空间B",
+    "reference_slots": [
+      4031688
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28694,
+    "name_table_category": 6,
+    "name_table_index": 11
+  },
+  {
+    "id": "rom-309a84",
+    "source_offset": 3185284,
+    "jp_offset": 3185284,
+    "zh": "岩浆之血",
+    "reference_slots": [
+      4031692
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28714,
+    "name_table_category": 6,
+    "name_table_index": 12
+  },
+  {
+    "id": "rom-309a70",
+    "source_offset": 3185264,
+    "jp_offset": 3185264,
+    "zh": "深海",
+    "reference_slots": [
+      4031696
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28704,
+    "name_table_category": 6,
+    "name_table_index": 13
+  },
+  {
+    "id": "rom-309a5c",
+    "source_offset": 3185244,
+    "jp_offset": 3185244,
+    "zh": "怪兽洞穴",
+    "reference_slots": [
+      4031700
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28715,
+    "name_table_category": 6,
+    "name_table_index": 14
+  },
+  {
+    "id": "rom-309a48",
+    "source_offset": 3185224,
+    "jp_offset": 3185224,
+    "zh": "枯死森林",
+    "reference_slots": [
+      4031704
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28705,
+    "name_table_category": 6,
+    "name_table_index": 15
+  },
+  {
+    "id": "rom-309a30",
+    "source_offset": 3185200,
+    "jp_offset": 3185200,
+    "zh": "宏伟城堡A",
+    "reference_slots": [
+      4031708
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28696,
+    "name_table_category": 6,
+    "name_table_index": 16
+  },
+  {
+    "id": "rom-309a18",
+    "source_offset": 3185176,
+    "jp_offset": 3185176,
+    "zh": "宏伟城堡B",
+    "reference_slots": [
+      4031712
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28697,
+    "name_table_category": 6,
+    "name_table_index": 17
+  },
+  {
+    "id": "rom-309a08",
+    "source_offset": 3185160,
+    "jp_offset": 3185160,
+    "zh": "现实世界",
+    "reference_slots": [
+      4031716
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28716,
+    "name_table_category": 6,
+    "name_table_index": 18
+  },
+  {
+    "id": "rom-3099f4",
+    "source_offset": 3185140,
+    "jp_offset": 3185140,
+    "zh": "骤死场地",
+    "reference_slots": [
+      4031720
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28698,
+    "name_table_category": 6,
+    "name_table_index": 19
+  },
+  {
+    "id": "rom-3099dc",
+    "source_offset": 3185116,
+    "jp_offset": 3185116,
+    "zh": "巨型场地",
+    "reference_slots": [
+      4031724
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28695,
+    "name_table_category": 6,
+    "name_table_index": 20
+  },
+  {
+    "id": "rom-3099c8",
+    "source_offset": 3185096,
+    "jp_offset": 3185096,
+    "zh": "平坦场地",
+    "reference_slots": [
+      4031728
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28709,
+    "name_table_category": 6,
+    "name_table_index": 21
+  },
+  {
+    "id": "rom-3099b8",
+    "source_offset": 3185080,
+    "jp_offset": 3185080,
+    "zh": "暗星",
+    "reference_slots": [
+      4031732
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28703,
+    "name_table_category": 6,
+    "name_table_index": 22
+  },
+  {
+    "id": "rom-3099a0",
+    "source_offset": 3185056,
+    "jp_offset": 3185056,
+    "zh": "练习场地",
+    "reference_slots": [
+      4031736
+    ],
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "kind": "arena-name",
+    "native_string_id": 28708,
+    "name_table_category": 6,
+    "name_table_index": 23
+  },
+  {
+    "id": "map-label-7b7710",
+    "source_offset": 8091408,
+    "zh": "家",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 1,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7780",
+    "source_offset": 8091520,
+    "zh": "机器人中心",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 2,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b77f0",
+    "source_offset": 8091632,
+    "zh": "商场",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 3,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7860",
+    "source_offset": 8091744,
+    "zh": "警队",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 4,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b78d0",
+    "source_offset": 8091856,
+    "zh": "？？？",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 5,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7940",
+    "source_offset": 8091968,
+    "zh": "前往马修山",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 6,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b79b0",
+    "source_offset": 8092080,
+    "zh": "前往大师岛",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 7,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7a20",
+    "source_offset": 8092192,
+    "zh": "岩山",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 8,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7a90",
+    "source_offset": 8092304,
+    "zh": "森林",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 9,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7b00",
+    "source_offset": 8092416,
+    "zh": "P女士研究室",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 10,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7b70",
+    "source_offset": 8092528,
+    "zh": "对战塔",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 11,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7be0",
+    "source_offset": 8092640,
+    "zh": "豪华商店",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 12,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7c50",
+    "source_offset": 8092752,
+    "zh": "究极要塞",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 13,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7cc0",
+    "source_offset": 8092864,
+    "zh": "黑暗中心",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 14,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7d30",
+    "source_offset": 8092976,
+    "zh": "黑暗商店",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 15,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b7da0",
+    "source_offset": 8093088,
+    "zh": "返回马卡诺市",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 16,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b78e7",
+    "source_offset": 8091879,
+    "zh": "地下对战场",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "node",
+    "map_record_index": 5,
+    "map_field_offset": 23
+  },
+  {
+    "id": "map-label-7b8504",
+    "source_offset": 8094980,
+    "zh": "马卡诺市",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "header",
+    "map_record_index": 1,
+    "map_field_offset": 0
+  },
+  {
+    "id": "map-label-7b8568",
+    "source_offset": 8095080,
+    "zh": "大师岛",
+    "kind": "map-inline-label",
+    "controls": [],
+    "route": "exact-ROM-display-pointer",
+    "alias_policy": "exact-pointer-only",
+    "map_record_kind": "header",
+    "map_record_index": 2,
+    "map_field_offset": 0
+  }
+]

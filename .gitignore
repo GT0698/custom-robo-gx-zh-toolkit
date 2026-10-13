@@ -1,0 +1,24 @@
+# Local ROMs, generated catalogs, build and runtime outputs
+.build/
+.venv/
+__pycache__/
+*.py[cod]
+*.gba
+*.sav
+*.rawstate*
+*.ss[0-9]
+*.o
+*.so
+*.dylib
+*.bps
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.webp
+# Credentials, machine settings, editor/cache metadata
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/

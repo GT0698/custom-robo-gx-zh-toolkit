@@ -1,0 +1,186 @@
+[
+  {
+    "index": 0,
+    "source": 3882108,
+    "pointer_slot": 8095184,
+    "size": 512,
+    "width_guess": 32,
+    "height_guess": 16
+  },
+  {
+    "index": 1,
+    "source": 3883424,
+    "pointer_slot": 8095280,
+    "size": 512,
+    "width_guess": 32,
+    "height_guess": 16
+  },
+  {
+    "index": 2,
+    "source": 3884264,
+    "pointer_slot": 8095376,
+    "size": 512,
+    "width_guess": 32,
+    "height_guess": 16
+  },
+  {
+    "index": 4,
+    "source": 3355204,
+    "pointer_slot": 8095496,
+    "size": 1024,
+    "width_guess": 32,
+    "height_guess": 32
+  },
+  {
+    "index": 5,
+    "source": 3355204,
+    "pointer_slot": 8095592,
+    "size": 1024,
+    "width_guess": 32,
+    "height_guess": 32
+  },
+  {
+    "index": 6,
+    "source": 3337328,
+    "pointer_slot": 8095616,
+    "size": 4096,
+    "width_guess": 64,
+    "height_guess": 64
+  },
+  {
+    "index": 7,
+    "source": 3484336,
+    "pointer_slot": 8095640,
+    "size": 512,
+    "width_guess": 32,
+    "height_guess": 16
+  },
+  {
+    "index": 8,
+    "source": 3504288,
+    "pointer_slot": 8095664,
+    "size": 1024,
+    "width_guess": 32,
+    "height_guess": 32
+  },
+  {
+    "index": 9,
+    "source": 3504488,
+    "pointer_slot": 8095688,
+    "size": 1024,
+    "width_guess": 32,
+    "height_guess": 32
+  },
+  {
+    "index": 10,
+    "source": 3520032,
+    "pointer_slot": 8095712,
+    "size": 1024,
+    "width_guess": 32,
+    "height_guess": 32
+  },
+  {
+    "index": 11,
+    "source": 3520336,
+    "pointer_slot": 8095736,
+    "size": 1024,
+    "width_guess": 32,
+    "height_guess": 32
+  },
+  {
+    "index": 12,
+    "source": 3520560,
+    "pointer_slot": 8095760,
+    "size": 1024,
+    "width_guess": 32,
+    "height_guess": 32
+  },
+  {
+    "index": 13,
+    "source": 3520796,
+    "pointer_slot": 8095784,
+    "size": 1024,
+    "width_guess": 32,
+    "height_guess": 32
+  },
+  {
+    "index": 14,
+    "source": 3751764,
+    "pointer_slot": 8095808,
+    "size": 256,
+    "width_guess": 32,
+    "height_guess": 8
+  },
+  {
+    "index": 15,
+    "source": 3579572,
+    "pointer_slot": 8095832,
+    "size": 4096,
+    "width_guess": 64,
+    "height_guess": 64
+  },
+  {
+    "index": 16,
+    "source": 3580636,
+    "pointer_slot": 8095856,
+    "size": 4096,
+    "width_guess": 64,
+    "height_guess": 64
+  },
+  {
+    "index": 17,
+    "source": 3581908,
+    "pointer_slot": 8095880,
+    "size": 4096,
+    "width_guess": 64,
+    "height_guess": 64
+  },
+  {
+    "index": 18,
+    "source": 6681232,
+    "pointer_slot": 8095976,
+    "size": 4096,
+    "width_guess": 64,
+    "height_guess": 64
+  },
+  {
+    "index": 19,
+    "source": 3586180,
+    "pointer_slot": 8096000,
+    "size": 4096,
+    "width_guess": 64,
+    "height_guess": 64
+  },
+  {
+    "index": 20,
+    "source": 3585236,
+    "pointer_slot": 8096024,
+    "size": 4096,
+    "width_guess": 64,
+    "height_guess": 64
+  },
+  {
+    "index": 21,
+    "source": 3583064,
+    "pointer_slot": 8095904,
+    "size": 4096,
+    "width_guess": 64,
+    "height_guess": 64
+  },
+  {
+    "index": 22,
+    "source": 3583836,
+    "pointer_slot": 8095928,
+    "size": 4096,
+    "width_guess": 64,
+    "height_guess": 64
+  },
+  {
+    "index": 23,
+    "source": 6788052,
+    "pointer_slot": 8095952,
+    "size": 4096,
+    "width_guess": 64,
+    "height_guess": 64
+  }
+]

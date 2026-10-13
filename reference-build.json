@@ -1,0 +1,21 @@
+{
+  "japanese_sha1": "0b5ce051aa1fd83ab0ec79122b07b02bb41096a5",
+  "english_sha1": "e033251c780dbbd83b15623159b743d2e624d8a0",
+  "target": {
+    "size": 16777216,
+    "crc32": "6066ed98",
+    "sha1": "4816ac49f58e5e3648e018b976de3ed50451b30c",
+    "sha256": "d1bc109a6bd81b8e99f427ac11d3456c1cc143f90379a843eb6dcc09ed1813c9"
+  },
+  "font_sha256": "bb2cdfa029674d83ad9fc6b01bba11752f61779cae1219a722c7ccee96b2d0ae",
+  "status": "development test build; full single-player acceptance incomplete",
+  "expected_counts": {
+    "dialogue_unique": 6394,
+    "message_occurrences": 12309,
+    "native_records": 1181,
+    "offbank_records": 234,
+    "glyphs": 1952,
+    "lookup_entries": 2992,
+    "native_engine_bytes": 1316
+  }
+}

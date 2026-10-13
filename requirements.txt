@@ -1,0 +1,3 @@
+# Core build and pure tests use the Python standard library.
+# Pillow is only needed for optional offline image previews.
+Pillow>=10,<12
